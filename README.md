@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 # Ryo Yonetani, Ph.D.
