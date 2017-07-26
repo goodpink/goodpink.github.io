@@ -1,5 +1,7 @@
 ---
-layout: my_post
+layout: post
 title: Projects
 permalink: /projects/
 ---
+
+Recent Projects
