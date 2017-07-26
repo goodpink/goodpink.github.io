@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Ryo Yonetani, Ph.D.
 
 Research Associate
