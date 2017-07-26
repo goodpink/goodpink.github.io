@@ -3,6 +3,14 @@ layout: default
 title: News
 ---
 
+# Ryo Yonetani, Ph.D.
+Research Associate
+
+Institute of Industrial Science
+
+The University of Tokyo
+
+# News
 - (July 16, 2017) Our paper on privacy-preserving visual learning has been accepted to ICCV.
 - (May 31, 2017) We will present our work on privacy-preserving visual learning at [CVPR workshop on Challenges and Opportunities for Privacy and Security](http://vision.soic.indiana.edu/bright-and-dark-workshop-2017/cvpr2017.html).
 - (December 11, 2016) Our paper has been accepted to CHI2017.
