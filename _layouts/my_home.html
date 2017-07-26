@@ -13,9 +13,10 @@ layout: default
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          <img src={{post.cover}}>
         </h2>
       </li>
+      <img src={{post.cover}}>
+
     {% endfor %}
   </ul>
 
