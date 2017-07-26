@@ -1,6 +1,6 @@
 ---
 layout: my_default
-title: News
+title: Home
 ---
 
 # News
