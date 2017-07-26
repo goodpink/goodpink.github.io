@@ -1,11 +1,7 @@
 ---
-layout: default
+layout: my_default
 title: News
 ---
-
-# Ryo Yonetani, Ph.D.
-Research Associate   
-Institute of Industrial Science, The University of Tokyo
 
 # News
 - (July 16, 2017) Our paper on privacy-preserving visual learning has been accepted to ICCV.
