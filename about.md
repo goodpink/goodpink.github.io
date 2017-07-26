@@ -1,6 +1,4 @@
 ---
-title: Profile
-permalink: :title
 layout:page
 ---
 
