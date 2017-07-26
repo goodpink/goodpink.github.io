@@ -4,7 +4,7 @@ title: Profile
 permalink: /profile/
 ---
 
-**Ryo Yonetani** received his MS and PhD degrees in Informatics from Kyoto University in 2011 and 2013. He is currently a research associate at the Institute of Industrial Science, the University of Tokyo and a visiting scholar at the CMU Robotics Institute. His research interests include computer vision (first-person vision and activity recognition) and computer-human interaction.
+I am currently a research associate at the Institute of Industrial Science, the University of Tokyo. My research interests include computer vision (first-person vision and activity recognition) and human computer interaction.
 
 ## Education
 - Ph.D. in Informatics @ Kyoto University, 2013
