@@ -4,5 +4,11 @@
 # Edit minima's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: page
+layout: home
 ---
+
+# Ryo Yonetani, Ph.D.
+
+Research Associate
+
+Institute of Industrial Science, The University of Tokyo
