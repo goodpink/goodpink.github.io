@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+
+![me](/images/me.png)
+
 # Ryo Yonetani, Ph.D.
 Research Associate  
 Institute of Industrial Science, the University of Tokyo
