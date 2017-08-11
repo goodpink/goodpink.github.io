@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-![me](/images/me.png)
+![me](/images/me.png){:height="240px" width="240px"}
 
 # Ryo Yonetani, Ph.D.
 Research Associate  
