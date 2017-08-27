@@ -12,8 +12,8 @@ I am currently a research associate at the Institute of Industrial Science, the 
 - Bachelor's degree in Electrical and Electronic Engineering @ Kyoto University, 2009
 
 ## Appointments
-- Visiting Scholar @ Robotics Institute, Carnegie Mellon University, 2016 - Present
 - Research Associate @ The University of Tokyo, 2014 - Present
+- Visiting Scholar @ Robotics Institute, Carnegie Mellon University, 2016 - 2017
 - Research Fellow of Japan Society for Promotion of Science (PD) @ The University of Tokyo, 2014
 - Research Fellow of Japan Society for Promotion of Science (DC2) @ Kyoto University, 2012 - 2013
 - Global COE Research Assistant @ Kyoto University, 2011 - 2012
@@ -24,13 +24,13 @@ I am currently a research associate at the Institute of Industrial Science, the 
 - Other 5 awards in Japan
 
 ## Grants
-- JST ACT-I ``Privacy-Preserving First-Person Vision'', Dec. 2016 - present (PI)
+- JST ACT-I ``Privacy-Preserving First-Person Vision'', Dec. 2016 - Present (PI)
 - Foundation for the Promotion of Industrial Science Scholarship Program, 2016 - 2017
 - JSPS Grant-in-Aid for Young Scientists (B), 2015 - 2017 (PI)
 - The Kayamori Foundation for Informational Science Advancement Research Grant, 2015 - 2017 (PI)
 - The Okawa Foundation for Information and Telecommunications Research Grant, 2015 - 2016 (PI)
 - [JST CREST ``Analyzing Human Attention and Behavior via Collective Visual Sensing for the Creation of Life Innovation''](http://www.hci.iis.u-tokyo.ac.jp/~cvs/), 2014 - present (Collaborator)
-- JST SICORP ``Learning and Detecting Changes in Population Behavior from Video'', 2017 - present (Collaborator)
+- JST SICORP ``Learning and Detecting Changes in Population Behavior from Video'', 2017 - Present (Collaborator)
 - JSPS Research Fellowship for Young Scientists (JSPS DC2), 2012 - 2014 (PI)
 - Young Leader Fostering Program, supported by Kyoto University Global COE program, 2011 - 2012 (PI)
 
