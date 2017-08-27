@@ -11,7 +11,8 @@ Research Associate
 Institute of Industrial Science, the University of Tokyo
 
 # News
-- (July 16, 2017) Our paper on privacy-preserving visual learning has been accepted to ICCV.
+- (August 28, 2017) Our paper on multi-camera first person vision has been accepted to ICCV workshop.
+- (July 16, 2017) Our paper on privacy-preserving visual learning has been accepted to ICCV2017.
 - (May 31, 2017) We will present our work on privacy-preserving visual learning at [CVPR workshop on Challenges and Opportunities for Privacy and Security](http://vision.soic.indiana.edu/bright-and-dark-workshop-2017/cvpr2017.html).
 - (December 11, 2016) Our paper has been accepted to CHI2017.
 - (November 19, 2016) We will be organizing [the First International Workshop on Human Activity Analysis with Highly Diverse Cameras](http://printeps.org/HDC2017/) at WACV2017.
