@@ -8,7 +8,8 @@ permalink: /publications/
 
 ## Conference Papers
 
-- Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", Internationl Conference on Computer Vision **(ICCV2017)**, Venice, Itary, Nov 2017 (accepted)
+- Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Video", International Workshop on Egocentric Perception, Interaction, and Computing **(EPIC2017)**, Venice, Itary, Oct 2017
+- Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", Internationl Conference on Computer Vision **(ICCV2017)**, Venice, Itary, Oct 2017
 - Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines", ACM Conference on Human Factors in Computing Systems **(CHI2017)**, Denver, CO, USA, May 2017
 - Ryo Yonetani, Kris Kitani, Yoichi Sato: "Visual Motif Discovery via First-Person Vision", European Conference on Computer Vision **(ECCV2016)**, Amsterdam, Netherlands, Oct 2016
 - Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Discovering Objects of Joint Attention via First-Person Sensing", IEEE CVPR Workshop on Egocentric (First-Person) Vision **(EGOV2016)**, Las Vegas, NV, USA, Jun 2016
