@@ -37,9 +37,3 @@ permalink: /publications/
 - Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Mental Focus Analysis Using the Spatio-temporal Correlation between Visual Saliency and Eye Movements", IPSJ Journal, 52(12), 2012
 - Erina Ishikawa, Ryo Yonetani, Takatsugu Hirayama, Takashi Matsuyama: "Analysis of Gaze Mirroring Effects (IN JAPANESE)", IPSJ Journal, 52(12), pp.3637-3646, 2011
 - Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Gaze Probing: Event-based Estimation of Objects Being Focused on (IN JAPANESE)", Human Interface, 12(3), pp. 125-135, 2010
-
-## Patents
-
-- (WO2012105196) INTEREST ESTIMATION DEVICE, INTEREST ESTIMATION METHOD, Kotaro Sakata, Shigenori Maeda, Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama
-- (WO/2010/143377) FIXATION-OBJECT DETERMINATION DEVICE, METHOD, Kotaro Sakata, Shigenori Maeda, Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama
-- Other 2 patents in Japan
