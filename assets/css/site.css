@@ -1,8 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(http://fonts.googleapis.com/css?family=calibri:400,700);
 
 /* global settings */
 body {
-  font-family: 'Calibri Light', 'sans-serif';
+  font-family: 'Calibri', 'sans-serif';
   padding-bottom:60px;
   padding-top:50px;
 }
