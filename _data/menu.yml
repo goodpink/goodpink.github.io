@@ -1,0 +1,14 @@
+
+mainmenu:
+  home:
+    url: "/"
+    text: "Home"
+  profile:
+    url: "/profile/"
+    text: "Profile"
+  project:
+    url: "/projects/"
+    text: "Projects"
+  publication:
+    url: "/publications/"
+    text: "Publications"

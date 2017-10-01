@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
 
-
-![me](/images/me.png){:height="240px" width="240px"}
+![cover](/images/me.png)
 
 # Ryo Yonetani, Ph.D.
+
 Research Associate  
 Institute of Industrial Science, the University of Tokyo
 

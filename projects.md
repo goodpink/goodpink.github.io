@@ -1,5 +1,5 @@
 ---
-layout: my_home
+layout: blog
 title: Projects
 permalink: /projects/
 ---

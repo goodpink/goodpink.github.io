@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
+      <div class="page">
+
+        <header class="page-header">
+          <h3 class="page-title"><a href="{{page.url|prepend: site.baseurl}}">{{ page.title }}</a></h3>
+
+        </header>
+
+        <article class="page-content">
+          {% if page.thumbnail %}
+              <img src="{{page.thumbnail}}" alt="{{page.title}}"  class="pull-left img-responsive thumb img-thumbnail" style="margin-bottom: 20px">
+          {% endif %}
+          {{ content }}
+        </article>
+      </div>
+    </div>
+  </div>
+</div>
