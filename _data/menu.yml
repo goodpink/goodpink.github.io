@@ -12,3 +12,6 @@ mainmenu:
   publication:
     url: "/publications/"
     text: "Publications"
+  profile_j:
+    url: "/profile_j/"
+    text: "Japanese Page"
