@@ -13,7 +13,7 @@ Institute of Industrial Science, the University of Tokyo
 [-> Introduction in Japanese](/profile_j/)
 
 # News
-- (October 24, 2017) Our paper on people identification on first-person vision has been accepted to IEEE TPAMI.
+- (October 24, 2017) Our paper on people identification in first-person videos has been accepted to IEEE TPAMI.
 - (August 28, 2017) Our paper on multi-camera first person vision has been accepted to ICCV workshop.
 - (July 16, 2017) Our paper on privacy-preserving visual learning has been accepted to ICCV2017.
 - (May 31, 2017) We will present our work on privacy-preserving visual learning at [CVPR workshop on Challenges and Opportunities for Privacy and Security](http://vision.soic.indiana.edu/bright-and-dark-workshop-2017/cvpr2017.html).
