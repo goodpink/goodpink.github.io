@@ -69,9 +69,10 @@ permalink: /profile_j/
 [DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) \| [CiNii](http://ci.nii.ac.jp/nrid/9000017546008)
 
 #### 査読付き雑誌論文
+- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing First-Person Videos", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** (accepted)
+- 下西慶, 石川惠理奈, 米谷竜, 川嶋宏彰, 松山隆司: "視線運動解析による興味アスペクトの推定", ヒューマンインタフェース学会論文誌, Vol.16, No2, pp.103-114, 2014
 - Akisato Kimura, Ryo Yonetani, Takatsugu Hirayama: "Computational Models of Human Visual Attention and Their Implementations: A Survey", IEICE Transactions on Information and Systems, E96-D(3), pp.562-578, 2013
 - Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: Learning Spatiotemporal Gaps between Where We Look and What We Focus on", IPSJ Transactions on Computer Vision and Applications, 5, pp. 75-79, 2013
-- 下西慶, 石川惠理奈, 米谷竜, 川嶋宏彰, 松山隆司: "視線運動解析による興味アスペクトの推定", ヒューマンインタフェース学会論文誌, Vol.16, No2, pp.103-114, 2014
 - 米谷竜, 川嶋宏彰, 加藤丈和, 松山隆司: "映像の顕著性変動モデルを用いた視聴者の集中状態推定, 電子情報通信学会論文誌, J96-D(8), pp.1675-1687, 2013（第15回 画像の認識・理解シンポジウム推薦論文）
 - Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Mental Focus Analysis Using the Spatio-temporal Correlation between Visual Saliency and Eye Movements", 情報処理学会論文誌, Vol. 52, No. 12, 2011
 - 石川惠理奈, 米谷竜, 平山高嗣, 松山隆司: "Gaze Mirroringによる注視模倣効果の分析", 情報処理学会論文誌, Vol.52, No.12, pp3637-3646, 2011
