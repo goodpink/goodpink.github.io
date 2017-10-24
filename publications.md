@@ -28,6 +28,7 @@ permalink: /publications/
 
 ## Journal Papers
 
+- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing First-Person Videos", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** (accepted)
 - Kei Shimonishi, Erina Ishikawa, Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: "Learning Aspects of Interest from Gaze (IN JAPANESE)", Human Interface, 16(2), pp.103-114, 2014
 - Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: "Learning Spatiotemporal Gaps between Where We Look and What We Focus on", IPSJ Transactions on Computer Vision and Applications, 5, pp. 75-79, 2013
 - Ryo Yonetani, Hiroaki Kawashima, Takekazu Kato, Takashi Matsuyama: "Modeling Saliency Dynamics for Viewer State Estimation (IN JAPANESE)", IEICE Transactions on Information and Systems, J96-D(8), pp.1675-1687, 2013
