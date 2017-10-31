@@ -10,7 +10,8 @@ title: Home
 Research Associate  
 Institute of Industrial Science, the University of Tokyo
 
-[-> Introduction in Japanese](/profile_j/)
+- [Recent Project: First-Person Vision with Multiple Wearable Cameras](/2017/11/01/overview.html)
+- [Introduction in Japanese](/profile_j/)
 
 # News
 - (October 24, 2017) Our paper on people identification for first-person videos has been accepted to IEEE TPAMI.
