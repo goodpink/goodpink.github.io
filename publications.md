@@ -8,6 +8,7 @@ permalink: /publications/
 
 ## Conference Papers
 
+- Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines", ACM SIGGRAPH Asia **(SIGGRAPH ASIA2017)** Emerging Technologies, Bangkok, Nov 2017.
 - Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", Internationl Conference on Computer Vision **(ICCV2017)**, Venice, Itary, Oct 2017
 - Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Video", International Workshop on Egocentric Perception, Interaction, and Computing **(EPIC2017)**, Venice, Itary, Oct 2017
 - Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato: "Rapid Prototyping of Accessible Interfaces with Gaze- Contiguent Tunnel Vision Simulation", ACM SIGACCESS International Conference on Computers and Accessibility **(ASSETS 2017)**, Oct 2017.
