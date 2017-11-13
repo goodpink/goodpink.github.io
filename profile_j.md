@@ -4,6 +4,8 @@ title: Profile
 permalink: /profile_j/
 ---
 
+<img class="img-circle img-responsive" src="/images/me.png">
+
 # 米谷　竜（よねたに　りょう）
 
 情報科学分野において，主にコンピュータビジョンの研究に従事しています．出身は広島，大学生活を京都で送り，現在は東京大学の生産技術研究所（駒場にあります）で助教をしています．

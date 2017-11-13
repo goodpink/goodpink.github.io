@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![cover](/images/me.png)
+<img class="img-circle img-responsive" src="/images/me.png">
 
 # Ryo Yonetani, Ph.D.
 
