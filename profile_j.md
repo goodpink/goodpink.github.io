@@ -71,7 +71,7 @@ permalink: /profile_j/
 [DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) \| [CiNii](http://ci.nii.ac.jp/nrid/9000017546008)
 
 #### 査読付き雑誌論文
-- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing First-Person Videos", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** (accepted)
+- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** (accepted)
 - 下西慶, 石川惠理奈, 米谷竜, 川嶋宏彰, 松山隆司: "視線運動解析による興味アスペクトの推定", ヒューマンインタフェース学会論文誌, Vol.16, No2, pp.103-114, 2014
 - Akisato Kimura, Ryo Yonetani, Takatsugu Hirayama: "Computational Models of Human Visual Attention and Their Implementations: A Survey", IEICE Transactions on Information and Systems, E96-D(3), pp.562-578, 2013
 - Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: Learning Spatiotemporal Gaps between Where We Look and What We Focus on", IPSJ Transactions on Computer Vision and Applications, 5, pp. 75-79, 2013
@@ -81,6 +81,7 @@ permalink: /profile_j/
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "Gaze Probing: イベント提示に基づく注視オブジェクト推定", ヒューマンインタフェース学会論文誌, Vol.12, No.3, pp. 125-135, 2010
 
 #### 査読付き会議論文
+- Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines", ACM SIGGRAPH Asia **(SIGGRAPH ASIA 2017)** Emerging Technologies, Bangkok, Nov 2017.
 - Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", Internationl Conference on Computer Vision **(ICCV2017)**, 2017
 - Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Video", International Workshop on Egocentric Perception, Interaction, and Computing **(EPIC2017)**, 2017
 - Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato: "Rapid Prototyping of Accessible Interfaces with Gaze- Contiguent Tunnel Vision Simulation", ACM SIGACCESS International Conference on Computers and Accessibility **(ASSETS 2017)**, 2017.
