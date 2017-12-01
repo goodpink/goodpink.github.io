@@ -14,6 +14,7 @@ Institute of Industrial Science, the University of Tokyo
 - [Introduction in Japanese](/profile_j/)
 
 # News
+- (December 1, 2017) We posted a new work on future localization in first-person videos on arXiv ([Project page](/2017/12/01/ymys-arxiv2017.html)).
 - (October 24, 2017) Our paper on people identification for first-person videos has been accepted to IEEE TPAMI.
 - (August 28, 2017) Our paper on multi-camera first person vision has been accepted to ICCV workshop.
 - (July 16, 2017) Our paper on privacy-preserving visual learning has been accepted to ICCV2017.
