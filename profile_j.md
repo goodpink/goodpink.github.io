@@ -55,13 +55,15 @@ permalink: /profile_j/
 - JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016 - 現在
 
 ## 学会活動
+- 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員（2017-）
 - Program Chair @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
 - Organizing Committee Member @ IAPR International Conference on Machine Vision and Applications (MVA2017)
 - Sponsorship Chair @ International Conference on Multimodal Interaction (ICMI2016)
 - 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 運営委員, 2014 - 現在
-- Reviewer @ CVPR (2015, 2016, 2017), ECCV (2014, 2016), ICCV (2015, 2017), ACCV (2014, 2016), CHI (2017), ICPR (2014), TPAMI, IJCV, etc.
+- Reviewer @ CVPR (2015, 2016, 2017, 2018), ECCV (2014, 2016), ICCV (2015, 2017), ACCV (2014, 2016), CHI (2017), ICPR (2014, 2018), TPAMI, IJCV, etc.
 
-## 招待講演
+## 招待講演，講義
+- 一人称ビジョン, 人工知能とメディア, はこだて未来大学, 2017
 - 一人称視点映像解析の最先端, 画像の認識・理解シンポジウム, 2016
 - Recognizing Micro-Actions and Reactions from Paired Egocentric Videos, 画像の認識・理解シンポジウム, 2016
 - Ego-Surfing First-Person Videos, 画像の認識・理解シンポジウム, 2015
@@ -100,6 +102,8 @@ permalink: /profile_j/
 - Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Gaze Probing: Event-Based Estimation of Objects Being Focused On", International Conference on Pattern Recognition **(ICPR2010)**, 2010 **(IBM Best Student Paper Award)**
 
 #### 査読なし会議論文
+- 粥川青汰, 樋口啓太, 中村優文, 米谷竜, 佐藤洋一, 森島繁生, ”一人称視点動画の高速閲覧に有効なキューの自動生成手法”, インタラクティブシステムとソフトウェアに関するワークショップ（WISS 2017）,  2017
+- 粥川青汰, 樋口啓太, 中村優文, 米谷竜, 佐藤洋一, 森島繁生, ”物体検出とユーザ入力に基づく一人称視点映像の高速閲覧手法”, 情報処理学会コンピュータビジョンとイメージメディア研究会,  2017.
 - Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Spatial-temporal Segmentation of Joint Attention in Multiple First-Person Videos", 第20回 画像の認識理解シンポジウム(MIRU), 2017
 - Ryo Yonetani, Vishnu N. Boddeti, Kris M. Kitani and Yoichi Sato: "Privacy-preserving visual learning using doubly permuted homomorphic encryption", First International Workshop on The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS 2017), 2017
 - 杉田祐樹, 樋口啓太, 米谷竜, 佐藤洋一: "複数一人称視点映像閲覧における行動空間とカメラ位置姿勢の3次元可視化による効果", 情報処理学会シンポジウム　インタラクション2017, 2017**（インタラクティブ発表賞）**
