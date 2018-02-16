@@ -14,6 +14,7 @@ Institute of Industrial Science, the University of Tokyo
 - [Introduction in Japanese](/profile_j/)
 
 # News
+- (February 16, 2018) I will serve as a program committee member for the [CVPR2018 workshop on Challenges and Opportunities for Privacy and Security](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/).
 - (January 10, 2018) We have updated [[PEV dataset]](https://www.dropbox.com/s/oykg2xeu0p39i4o/yks_cvpr2016.zip?dl=0), a dataset of first-person videos recorded during dyadic conversations presented at CVPR'16.
 - (December 1, 2017) We posted a new work on future localization in first-person videos on arXiv ([Project page](/2017/12/01/ymys-arxiv2017.html)).
 - (October 24, 2017) Our paper on people identification for first-person videos has been accepted to IEEE TPAMI.
