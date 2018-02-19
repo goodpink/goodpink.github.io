@@ -1,8 +1,8 @@
-@import url(http://fonts.googleapis.com/css?family=lato:400,700);
 
 /* global settings */
 body {
-  font-family: 'Lato', 'sans-serif';
+  font-family: 'Calibri';
+	font-weight:100;
   padding-bottom:60px;
   padding-top:50px;
 }
@@ -60,7 +60,6 @@ body {
   border-bottom:1px solid #ddd;
   padding-bottom:30px;
   display: table;
-
 }
 .blog-short .excerpt{
   min-height:100px;
@@ -145,7 +144,6 @@ background-color:#0e76a8;
 #site-title{
   line-height: 50px;
   color: #002E62;
-  font-weight: bold;
 }
 
 .container h1,h2,h3,h4,h5,h6{

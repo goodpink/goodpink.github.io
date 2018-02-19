@@ -4,7 +4,7 @@ title: Profile
 permalink: /profile/
 ---
 
-I am currently a research associate at the Institute of Industrial Science, the University of Tokyo. My research interests include computer vision (first-person vision and activity recognition) and human computer interaction.
+I am currently a research associate at the Institute of Industrial Science, the University of Tokyo. My research interests include computer vision (first-person vision and activity recognition), machine learning, and human computer interaction.
 
 ## Education
 - Ph.D. in Informatics @ Kyoto University, 2013
