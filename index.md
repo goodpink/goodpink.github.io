@@ -10,12 +10,14 @@ title: Home
 Research Associate  
 Institute of Industrial Science, the University of Tokyo
 
-[Introduction in Japanese](/profile_j/)
+mail: yonetani +at+ iis.u-tokyo.ac.jp
+
+[>> Introduction in Japanese](/profile_j/)
 
 # Research Interest
 Computer vision and machine learning. I like to use wearable cameras to solve various computer vision problems.
 
-[Recent Project: First-Person Vision with Multiple Wearable Cameras](/2017/11/01/overview.html)
+[>> Recent Project: First-Person Vision with Multiple Wearable Cameras](/2017/11/01/overview.html)
 
 # News
 - (February 19, 2018) Our work on future localization has been accepted to CVPR'18! ([Project page](/2018/02/19/ymys-cvpr2018.html)).
