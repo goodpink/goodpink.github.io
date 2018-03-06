@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Conference Papers
 
-- Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: "Future Person Localization in First-Person Videos", accepted to IEEE Conference on Computer Vision and Pattern Recognition **(CVPR2018)** [[project]](/2018/02/19/ymys-cvpr2018.html)
+- Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: "Future Person Localization in First-Person Videos", accepted as a **spotlight presentation** in IEEE Conference on Computer Vision and Pattern Recognition **(CVPR2018)** [[project]](/2018/02/19/ymys-cvpr2018.html)
 - Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", Internationl Conference on Computer Vision **(ICCV2017)** [[project]](/2017/07/16/ybks-iccv2017.html)
 - Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines", ACM Conference on Human Factors in Computing Systems **(CHI2017)** [[project]](/2017/01/16/hys-chi2017.html)
 - Ryo Yonetani, Kris Kitani, Yoichi Sato: "Visual Motif Discovery via First-Person Vision", European Conference on Computer Vision **(ECCV2016)** [[project]](/2016/07/12/yks-eccv2016.html)
