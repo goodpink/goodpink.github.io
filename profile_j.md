@@ -86,28 +86,28 @@ permalink: /profile_j/
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "Gaze Probing: イベント提示に基づく注視オブジェクト推定", ヒューマンインタフェース学会論文誌, Vol.12, No.3, pp. 125-135, 2010
 
 #### 国際会議論文
-- Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: "Future Person Localization in First-Person Videos", accepted to IEEE Conference on Computer Vision and Pattern Recognition **(CVPR2018)**
-- Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", Internationl Conference on Computer Vision **(ICCV2017)**
-- Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines": ACM Conference on Human Factors in Computing Systems **(CHI2017)**
-- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Visual Motif Discovery via First-Person Vision", European Conference on Computer Vision **(ECCV2016)**
-- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Recognizing Micro-Actions and Reactions from Paired Egocentric Videos": IEEE Conference on Computer Vision and Pattern Recognition **(CVPR2016)**
-- Keita Higuchi, Ryo Yonetani, Yoichi Sato: "Can Eye Help You?: Effects of Visualizing Eye Fixations on Remote Collaboration Scenarios for Physical Tasks": ACM Conference on Human Factors in Computing Systems **(CHI2016)**
-- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing First-Person Videos": IEEE Conference on Computer Vision and Pattern Recognition **(CVPR2015)**
-- Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: "Predicting Where We Look from Spatiotemporal Gaps", International Conference on Multimodal Interaction **(ICMI2013)**
-- Ryo Yonetani, Akisato Kimura, Hitoshi Sakano, Ken Fukuchi: "Single Image Segmentation with Estimated Depth", British Machine Vision Conference **(BMVC2012)**
-- Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: "Multi-mode Saliency Dynamics Model for Analyzing Gaze and Attention": Eye Tracking Research & Applications **(ETRA2012)**
-- Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Gaze Probing: Event-Based Estimation of Objects Being Focused On", International Conference on Pattern Recognition **(ICPR2010)** **(IBM Best Student Paper Award)**
+- Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: "Future Person Localization in First-Person Videos", IEEE Conference on Computer Vision and Pattern Recognition **(CVPR, spotlight presentation)**, 2018 [[project]](/2018/02/19/ymys-cvpr2018.html)
+- Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato, "Exploring the Role of Tunnel Vision Simulation in the Design Cycle of Accessible Interfaces", International Cross-Disciplinary Conference on Web Accessibility **(Web4All)**, 2018
+- Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", International Conference on Computer Vision **(ICCV)**, 2017 [[project]](/2017/07/16/ybks-iccv2017.html)
+- Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines", ACM Conference on Human Factors in Computing Systems **(CHI)**, 2017 [[project]](/2017/01/16/hys-chi2017.html)
+- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Visual Motif Discovery via First-Person Vision", European Conference on Computer Vision **(ECCV)**, 2016 [[project]](/2016/07/12/yks-eccv2016.html)
+- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Recognizing Micro-Actions and Reactions from Paired Egocentric Videos", IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2016 [[project]](/2016/03/02/yks-cvpr2016.html)
+- Keita Higuchi, Ryo Yonetani, Yoichi Sato: "Can Eye Help You?: Effects of Visualizing Eye Fixations on Remote Collaboration Scenarios for Physical Tasks", ACM Conference on Human Factors in Computing Systems **(CHI)**, 2016 [[project]](/2016/01/18/hys-chi2016.html)
+- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing First-Person Videos", IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2015 [[project]](/2016/06/15/yks-cvpr2015.html)
+- Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: "Predicting Where We Look from Spatiotemporal Gaps", International Conference on Multimodal Interaction **(ICMI)**, 2013 [[project]](/2013/12/09/ykm-icmi2013.html)
+- Ryo Yonetani, Akisato Kimura, Hitoshi Sakano, Ken Fukuchi: "Single Image Segmentation with Estimated Depth", British Machine Vision Conference **(BMVC)**, 2012
+- Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: "Multi-mode Saliency Dynamics Model for Analyzing Gaze and Attention", Eye Tracking Research & Applications **(ETRA)**, 2012 [[project]](/2012/03/28/ykm-etra2012.html)
+- Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Gaze Probing: Event-Based Estimation of Objects Being Focused On", International Conference on Pattern Recognition **(ICPR, IBM Best Student Paper Award)**, 2010
 
 #### 国際ワークショップ論文，Extended Abstracts
-- Seita Kayukawa, Keita Higuchi, Ryo Yonetani, Maanori Nakamura, Yoichi Sato, Shigeo Morishima: "Dynamic Object Scanning: Object-Based Elastic Timeline for Quickly Browsing First-Person Videos", ACM Conference on Human Factors in Computing Systems Late Breaking Work **(CHI2018-LBW)**
-- Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines", ACM SIGGRAPH Asia Emerging Technologies **(SIGGRAPH-ASIA2017-ETECH)**
-- Ryo Yonetani, Vishnu N. Boddeti, Kris M. Kitani and Yoichi Sato: "Privacy-preserving visual learning using doubly permuted homomorphic encryption", First International Workshop on The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS 2017)
-- Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Video", International Workshop on Egocentric Perception, Interaction, and Computing **(EPIC2017)**
-- Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato: "Rapid Prototyping of Accessible Interfaces with Gaze- Contiguent Tunnel Vision Simulation", ACM SIGACCESS International Conference on Computers and Accessibility **(ASSETS 2017)**
-- Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Discovering Objects of Joint Attention via First-Person Sensing", IEEE CVPR Workshop on Egocentric (First-Person) Vision **(EGOV2016)**
-- Kei Shimonishi, Hiroaki Kawashima, Ryo Yonetani, Erina Ishikawa, Takashi Matsuyama: "Learning Aspects of Interest from Gaze", ICMI Workshop on Eye Gaze in Intelligent Human Machine Interaction: Gaze in Multimodal Interaction **(GazeIn13)**
-- Ryo Yonetani: "Modeling Video Viewing Behaviors for Viewer State Estimation": ACM Multimedia Doctoral Symposium **(ACMMM2012DS)**
-- Erina Ishikawa, Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Semantic Interpretation of Eye Movements Using Designed Structures of Displayed Contents", ICMI Workshop on Eye Gaze in Intelligent Human Machine Interaction: Eye Gaze, Multimodality **(GazeIn12)**
+- Seita Kayukawa, Keita Higuchi, Ryo Yonetani, Maanori Nakamura, Yoichi Sato, Shigeo Morishima: "Dynamic Object Scanning: Object-Based Elastic Timeline for Quickly Browsing First-Person Videos", ACM Conference on Human Factors in Computing Systems Late Breaking Work **(CHI-LBW)**, 2018
+- Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines", ACM SIGGRAPH Asia Emerging Technologies **(SIGGRAPH-ASIA-ETECH)**, 2017
+- Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Video", International Workshop on Egocentric Perception, Interaction, and Computing **(EPIC)**, 2017
+- Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato: "Rapid Prototyping of Accessible Interfaces with Gaze- Contiguent Tunnel Vision Simulation", ACM SIGACCESS International Conference on Computers and Accessibility **(ASSETS)**, 2017
+- Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Discovering Objects of Joint Attention via First-Person Sensing", IEEE CVPR Workshop on Egocentric (First-Person) Vision **(EGOV)**, 2016
+- Kei Shimonishi, Hiroaki Kawashima, Ryo Yonetani, Erina Ishikawa, Takashi Matsuyama: "Learning Aspects of Interest from Gaze", ICMI Workshop on Eye Gaze in Intelligent Human Machine Interaction: Gaze in Multimodal Interaction **(GazeIn)**, 2013
+- Ryo Yonetani: "Modeling Video Viewing Behaviors for Viewer State Estimation", ACM Multimedia Doctoral Symposium **(ACMMM-DS)**, 2012
+- Erina Ishikawa, Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Semantic Interpretation of Eye Movements Using Designed Structures of Displayed Contents", ICMI Workshop on Eye Gaze in Intelligent Human Machine Interaction: Eye Gaze, Multimodality **(GazeIn)**, 2012
 
 
 #### 国内会議論文
