@@ -24,7 +24,7 @@ I am currently a research associate at the Institute of Industrial Science, the 
 - Other 5 awards in Japan
 
 ## Grants
-- JST ACT-I ``Privacy-Preserving First-Person Vision'', Dec. 2016 - Present (PI)
+- JST ACT-I ``Privacy-Preserving First-Person Vision'', 2016 - 2018 (PI)
 - Foundation for the Promotion of Industrial Science Scholarship Program, 2016 - 2017
 - JSPS Grant-in-Aid for Young Scientists (B), 2015 - 2017 (PI)
 - The Kayamori Foundation for Informational Science Advancement Research Grant, 2015 - 2017 (PI)
@@ -35,6 +35,7 @@ I am currently a research associate at the Institute of Industrial Science, the 
 - Young Leader Fostering Program, supported by Kyoto University Global COE program, 2011 - 2012 (PI)
 
 ## Services
+- Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
 - Program Chair @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
 - Organizing Committee Member @ IAPR International Conference on Machine Vision and Applications **(MVA2017)**
 - Sponsorship Chair @ International Conference on Multimodal Interaction **(ICMI2016)**

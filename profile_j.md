@@ -20,7 +20,7 @@ permalink: /profile_j/
   - 「提示イベントと眼球動作との同期構造分析に基づく注視対象推定」（指導教員: 松山隆司先生）
 
 ## 職位
-- H26-現在 東京大学生産技術研究所　助教
+- H26-現在 東京大学生産技術研究所 助教
 - H28-H29 Visiting Scholar at Carnegie Mellon University, Robotics Institute 
 - H24-H26 日本学術振興会特別研究員（DC2/PD）
 - H23-H24 京都大学グローバルCOEリサーチアシスタント
@@ -43,7 +43,7 @@ permalink: /profile_j/
 ## 研究助成
 
 #### 代表者
-- JST戦略的創造研究推進事業（ACT-I）, "プライバシー保護一人称ビジョン", 2016 - 現在
+- JST戦略的創造研究推進事業（ACT-I）, "プライバシー保護一人称ビジョン", 2016 - 2018
 - 生産技術研究奨励会特定研究奨励助成, "一人称視点映像の共通注目シーン解析", 2016 - 2017
 - 科学研究費補助金若手研究B, "映像コンテンツの顕著性変動解析による特徴ベース視線推定", 2015 - 2017
 - 栢森情報科学振興財団助成, "複数装着型カメラ映像からのインタラクション認識技術の開発", 2015 - 2017
@@ -55,11 +55,13 @@ permalink: /profile_j/
 - JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016 - 現在
 
 ## 学会活動
-- 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員（2017-）
+- 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 幹事, 2018-現在
+- Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
+- 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員, 2017-現在
 - Program Chair @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
 - Organizing Committee Member @ IAPR International Conference on Machine Vision and Applications (MVA2017)
 - Sponsorship Chair @ International Conference on Multimodal Interaction (ICMI2016)
-- 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 運営委員, 2014 - 現在
+- 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 運営委員, 2014 - 2018
 - Reviewer @ CVPR (2015, 2016, 2017, 2018), ECCV (2014, 2016), ICCV (2015, 2017), ACCV (2014, 2016), CHI (2017), ICPR (2014, 2018), TPAMI, IJCV, etc.
 
 ## 招待講演，講義
@@ -76,7 +78,6 @@ permalink: /profile_j/
 
 #### 査読付き雑誌論文
 - Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures", accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**
-- Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato, "Exploring the Role of Tunnel Vision Simulation in the Design Cycle of Accessible Interfaces", International Cross-Disciplinary Conference on Web Accessibility **(Web4All2018)**
 - 下西慶, 石川惠理奈, 米谷竜, 川嶋宏彰, 松山隆司: "視線運動解析による興味アスペクトの推定", ヒューマンインタフェース学会論文誌, Vol.16, No2, pp.103-114, 2014
 - Akisato Kimura, Ryo Yonetani, Takatsugu Hirayama: "Computational Models of Human Visual Attention and Their Implementations: A Survey", IEICE Transactions on Information and Systems, E96-D(3), pp.562-578, 2013
 - Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: Learning Spatiotemporal Gaps between Where We Look and What We Focus on", IPSJ Transactions on Computer Vision and Applications, 5, pp. 75-79, 2013

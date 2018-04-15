@@ -15,7 +15,7 @@ mail: yonetani +at+ iis.u-tokyo.ac.jp
 [>> Introduction in Japanese](/profile_j/)
 
 # Research Interest
-Computer vision and machine learning. I like to use wearable cameras to solve various computer vision problems.
+Computer vision and machine learning. I like to use wearable cameras for various human sensing problems.
 
 [>> Recent Project: First-Person Vision with Multiple Wearable Cameras](/2017/11/01/overview.html)
 
