@@ -12,14 +12,17 @@ Institute of Industrial Science, the University of Tokyo
 
 mail: yonetani +at+ iis.u-tokyo.ac.jp
 
-[>> Introduction in Japanese](/profile_j/)
+#### [>> Introduction in Japanese](/profile_j/)
 
 # Research Interest
 Computer vision and machine learning. I like to use wearable cameras for various human sensing problems.
 
-[>> Recent Project: First-Person Vision with Multiple Wearable Cameras](/2017/11/01/overview.html)
+#### [>> Recent Project: First-Person Vision with Multiple Wearable Cameras](/fpv_overview.html)
+
+#### [>> Codes and Datasets for First-Person Vision](/fpv_data.html)
 
 # News
+- (April 17, 2018) We have released a part of our data used in our ECCV'16 work at [Codes and Datasets for First-Person Vision](/fpv_data.html)
 - (February 19, 2018) Our work on future localization has been accepted to CVPR'18! ([Project page](/2018/02/19/ymys-cvpr2018.html)).
 - (February 19, 2018) One paper accepted to CHI'18 Late Breaking Work.
 - (February 16, 2018) I will serve as a program committee member for the [CVPR2018 workshop on Challenges and Opportunities for Privacy and Security](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/).
