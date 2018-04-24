@@ -2,6 +2,7 @@
 body {
 	font-family: 'Rokkitt', serif;
 	font-weight:100;
+    font-size: 15px;
   padding-bottom:60px;
   padding-top:50px;
 }
@@ -153,6 +154,10 @@ a{
 }
 #main-menu a{
   color:#002e62;
+}
+#page a{
+  color:#002e62;
+	font-weight: bold;
 }
 
 .label-tag{

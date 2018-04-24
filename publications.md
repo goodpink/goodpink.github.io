@@ -8,6 +8,7 @@ permalink: /publications/
 
 ## Conference Papers
 
+- Takayuki Nishio and Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", arXiv:1804.08333, 2018 [[project]](/2018/04/24/ny-arxiv2018.html)
 - Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: "Future Person Localization in First-Person Videos", IEEE Conference on Computer Vision and Pattern Recognition **(CVPR, spotlight presentation)**, 2018 [[project]](/2018/02/19/ymys-cvpr2018.html)
 - Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato, "Exploring the Role of Tunnel Vision Simulation in the Design Cycle of Accessible Interfaces", International Cross-Disciplinary Conference on Web Accessibility **(Web4All)**, 2018
 - Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", International Conference on Computer Vision **(ICCV)**, 2017 [[project]](/2017/07/16/ybks-iccv2017.html)

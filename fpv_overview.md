@@ -21,7 +21,7 @@ Wearable cameras mounted on the head of people can record their visual experienc
 
 ## Our Projects
 
-See also [Codes and Datasets for First-Person Vision](/fpv_data.html)!
+See also [Datasets for First-Person Vision](/fpv_data.html)!
 
 ### Person Identification (CVPR'15)
 
@@ -49,10 +49,4 @@ Visual motifs are images of visual experiences that are significant and shared a
 The goal of this work is to discover objects of joint attention, i.e., objects being viewed by multiple people using head-mounted cameras and eye trackers. Such objects of joint attention are expected to act as an important cue for understanding social interactions in everyday scenes. To this end, we develop a commonality-clustering method tailored to first-person videos combined with points-of-gaze sources. The proposed method uses multiscale spatiotemporal tubes around points of gaze as a candidate of objects, making it possible to deal with various sizes of objects observed in the first-person videos. We also introduce a new dataset of multiple pairs of first-person videos and points-of-gaze data. Our experimental results show that our approach can outperform several state-of-the-art commonality-clustering methods.
 
 - Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Video", International Workshop on Egocentric Perception, Interaction, and Computing **(EPIC)**, 2017 [[cvf page]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/w34/html/attention_hyfiis.u-tokyo.ac.jp_cai-mjiis.u-tokyo.ac.jp_keraiis.u-tokyo.ac.jp_ICCV_2017_paper.html)
-- Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Discovering Objects of Joint Attention via First-Person Sensing", IEEE CVPR Workshop on Egocentric (First-Person) Vision **(EGOV)**, 2016 [[cvf page]](https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w13/html/Kera_Discovering_Objects_of_CVPR_2016_paper.html)
-
-### Privacy-Preserving Learning (ICCV'17)
-<img class="img-responsive" src="/images/ybks-arxiv2017.png">
-We propose a privacy-preserving framework for learning visual classifiers by leveraging distributed private image data. This framework is designed to aggregate multiple classifiers updated locally using private data and to ensure that no private information about the data is exposed during its learning procedure. We utilize a homomorphic cryptosystem that can aggregate the local classifiers while they are encrypted and thus kept secret. To overcome the high computational cost of homomorphic encryption of high-dimensional classifiers, we (1) impose sparsity constraints on local classifier updates and (2) propose a novel efficient encryption scheme named doubly-permuted homomorphic encryption (DPHE) which is tailored to sparse high-dimensional data. DPHE (i) decomposes sparse data into its constituent non-zero values and their corresponding support indices, (ii) applies homomorphic encryption only to the non-zero values, and (iii) employs double permutations on the support indices to make them secret. Our experimental evaluation on several public datasets demonstrates that the proposed approach significantly outperforms other privacy-preserving methods and achieves comparable performance against state-of-the-art visual recognition methods without privacy preservation.
-
-- Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: "Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption", International Conference on Computer Vision **(ICCV)**, 2017 [[cvf page]](http://openaccess.thecvf.com/content_iccv_2017/html/Yonetani_Privacy-Preserving_Visual_Learning_ICCV_2017_paper.html) [[DPHE Demo]](https://github.com/yonetaniryo/DPHE-demo)
+-Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Discovering Objects of Joint Attention via First-Person Sensing", IEEE CVPR Workshop on Egocentric (First-Person) Vision **(EGOV)**, 2016 [[cvf page]](https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w13/html/Kera_Discovering_Objects_of_CVPR_2016_paper.html)

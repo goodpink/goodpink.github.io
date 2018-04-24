@@ -15,14 +15,22 @@ mail: yonetani +at+ iis.u-tokyo.ac.jp
 #### [>> Introduction in Japanese](/profile_j/)
 
 # Research Interest
-Computer vision and machine learning. I like to use wearable cameras for various human sensing problems.
+**Computer Vision (First-Person Vision), and Machine Learning (Federated Learning)**
 
-#### [>> Recent Project: First-Person Vision with Multiple Wearable Cameras](/fpv_overview.html)
+I like to use wearable cameras for various human sensing problems. Much of my recent work has focused on how we can utilize multiple wearable cameras collectively for analyzing group activities.
 
-#### [>> Codes and Datasets for First-Person Vision](/fpv_data.html)
+[>> Project: First-Person Vision with Multiple Wearable Cameras](/fpv_overview.html)
+
+[>> Datasets for First-Person Vision](/fpv_data.html)
+
+I am also interested in decentralized training such as Federated Learning, which leverages highly-distributed clients for training deep neural networks while preserving data privacy.
+
+[>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
-- (April 17, 2018) We have released a part of our data used in our ECCV'16 work at [Codes and Datasets for First-Person Vision](/fpv_data.html)
+- (April 24, 2018) We posted [a new article](/dt_overview.html) to introduce our activities on decentralized training.
+- (April 24, 2018) We posted a new work on federated learning combined with mobile edge computing ([project page](/2018/04/24/ny-arxiv2018.html))
+- (April 17, 2018) We have released a part of our data used in our ECCV'16 work at [Datasets for First-Person Vision](/fpv_data.html)
 - (February 19, 2018) Our work on future localization has been accepted to CVPR'18! ([Project page](/2018/02/19/ymys-cvpr2018.html)).
 - (February 19, 2018) One paper accepted to CHI'18 Late Breaking Work.
 - (February 16, 2018) I will serve as a program committee member for the [CVPR2018 workshop on Challenges and Opportunities for Privacy and Security](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/).

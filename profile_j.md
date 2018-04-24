@@ -112,6 +112,7 @@ permalink: /profile_j/
 
 
 #### 国内会議論文
+- 八木 拓真, マンガラムカーティケヤ, 米谷 竜, 佐藤 洋一, "一人称視点映像における人物位置予測", 情報処理学会研究会資料 CVIM, 2018
 - 粥川青汰, 樋口啓太, 中村優文, 米谷竜, 佐藤洋一, 森島繁生, ”一人称視点動画の高速閲覧に有効なキューの自動生成手法”, インタラクティブシステムとソフトウェアに関するワークショップ,  2017
 - 粥川青汰, 樋口啓太, 中村優文, 米谷竜, 佐藤洋一, 森島繁生, ”物体検出とユーザ入力に基づく一人称視点映像の高速閲覧手法”, 情報処理学会コンピュータビジョンとイメージメディア研究会,  2017.
 - Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: "Spatial-temporal Segmentation of Joint Attention in Multiple First-Person Videos", 第20回 画像の認識理解シンポジウム, 2017
