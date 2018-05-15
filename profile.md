@@ -39,4 +39,4 @@ I am currently a research associate at the Institute of Industrial Science, the 
 - Program Chair @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
 - Organizing Committee Member @ IAPR International Conference on Machine Vision and Applications **(MVA2017)**
 - Sponsorship Chair @ International Conference on Multimodal Interaction **(ICMI2016)**
-- Reviewer @ CVPR (2015, 2016, 2017, 2018), ECCV (2014, 2016), ICCV (2015, 2017), ACCV (2014, 2016), CHI (2017), ICPR (2014, 2018), TPAMI, IJCV, etc.
+- Reviewer @ CVPR (2015 - present), ECCV (2014 - present), ICCV (2015 - present), ACCV (2014 - present), CHI (2017), ICPR (2014), TPAMI, IJCV, etc.
