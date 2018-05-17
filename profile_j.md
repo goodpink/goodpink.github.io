@@ -65,7 +65,7 @@ permalink: /profile_j/
 - Reviewer @ CVPR (2015 - present), ECCV (2014 - present), ICCV (2015 - present), ACCV (2014 - present), CHI (2017), ICPR (2014), TPAMI, IJCV, etc.
 
 ## 招待講演，講義
-- サーベイ論文の書き方 ～視覚的注意モデルのサーベイを題材に～, パターン認識とメディア理解研究会, 2018（[資料（6.4MB）](https://www.dropbox.com/s/vvqxs698en01uf2/PRMU180518_yonetani_small.pdf?dl=0)）
+- サーベイ論文の書き方 ～視覚的注意モデルのサーベイを題材に～, パターン認識とメディア理解研究会, 2018（[資料（10.8MB）](https://www.dropbox.com/s/vvqxs698en01uf2/PRMU180518_yonetani_small.pdf?dl=0)）
 - 一人称ビジョンと集合視, 【第22回AIセミナー】 「コンピュータービジョンとAI　～人とロボットの視覚～」, 産総研 人工知能研究センター, 2018（[資料 (146MB)](https://goo.gl/SW3kbS)）
 - グランドチャレンジは誰がやるのか, 特別セッション「今後の研究会のあり方を考える」, パターン認識とメディア理解研究会, 2018（[資料](https://goo.gl/nz4eMf)）
 - 一人称ビジョン, 人工知能とメディア, はこだて未来大学, 2017
