@@ -21,6 +21,7 @@ permalink: /profile_j/
 
 ## 職位
 - H26-現在 東京大学生産技術研究所 助教
+- H30-現在 オムロンサイニックエックス株式会社 技術アドバイザ
 - H28-H29 Visiting Scholar at Carnegie Mellon University, Robotics Institute 
 - H24-H26 日本学術振興会特別研究員（DC2/PD）
 - H23-H24 京都大学グローバルCOEリサーチアシスタント

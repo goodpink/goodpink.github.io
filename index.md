@@ -7,10 +7,18 @@ title: Home
 
 # Ryo Yonetani, Ph.D.
 
-Research Associate  
-Institute of Industrial Science, the University of Tokyo
+**Research Associate** in Institute of Industrial Science at the University of Tokyo
 
-mail: yonetani +at+ iis.u-tokyo.ac.jp
+**Technical Advisor** in OMRON SINIC X Corporation
+
+<span style="color:red">**Open positions at OMRON SINIC X (OSX)**</span>
+ [>> Call for Interns (student / advanced tracks)](/papers/call_for_intern_osx_v3.pdf)
+
+OSX is a brand-new research company located in Tokyo (next to the University of Tokyo's Hongo Campus), and is now looking for full-time researchers and summer intern students excellent in either computer vision, machine learning, and robotics.
+Accepted intern students will be offered a competitive salary (200k-400k JPY per month) with residence and travel supports.
+If you are interested in research or engineer positions in Tokyo, please feel free to contact us!
+
+mail: yonetani +at+ iis.u-tokyo.ac.jp (UTokyo address) / ryo.yonetani + at + sinicx.com (OSX address)
 
 #### [>> Introduction in Japanese](/profile_j/)
 
