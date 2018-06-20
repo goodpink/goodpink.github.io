@@ -13,6 +13,7 @@ I am currently a research associate at the Institute of Industrial Science, the 
 
 ## Appointments
 - Research Associate @ The University of Tokyo, 2014 - Present
+- Research Advisor @ OMRON SINIC X Corporation, 2018 - Present
 - Visiting Scholar @ Robotics Institute, Carnegie Mellon University, 2016 - 2017
 - Research Fellow of Japan Society for Promotion of Science (PD) @ The University of Tokyo, 2014
 - Research Fellow of Japan Society for Promotion of Science (DC2) @ Kyoto University, 2012 - 2013
@@ -35,8 +36,9 @@ I am currently a research associate at the Institute of Industrial Science, the 
 - Young Leader Fostering Program, supported by Kyoto University Global COE program, 2011 - 2012 (PI)
 
 ## Services
+- Organizer @ [International Workshop on Attention/Intention Understanding (AIU2018)](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/) at ACCV2018.
 - Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
-- Program Chair @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
+- Organizer (Program Chair) @ [International Workshop on Human Activity Analysis with Highly Diverse Cameras (HDC2017)](http://printeps.org/HDC2017/) at WACV2017
 - Organizing Committee Member @ IAPR International Conference on Machine Vision and Applications **(MVA2017)**
 - Sponsorship Chair @ International Conference on Multimodal Interaction **(ICMI2016)**
 - Reviewer @ CVPR (2015 - present), ECCV (2014 - present), ICCV (2015 - present), ACCV (2014 - present), CHI (2017), ICPR (2014), TPAMI, IJCV, etc.

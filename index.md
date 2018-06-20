@@ -9,13 +9,20 @@ title: Home
 
 **Research Associate** in the Institute of Industrial Science at the University of Tokyo
 
-mail: yonetani +at+ iis.u-tokyo.ac.jp
+**Research Advisor** at OMRON SINIC X Corporation (effective June 21, 2018)
 
-**[Call for Interns at OMRON SINIC X]** I will serve as a research advisor at **OMRON SINIC X Corporation (OSX)** effective June 21, 2018. OSX is the OMRON's brand-new start-up company located next to the University of Tokyo's Hongo Campus, 
+mail: yonetani +at+ iis.u-tokyo.ac.jp \| ryo.yonetani +at+ sinicx.com
+
+#### [>> Introduction in Japanese](/profile_j/)
+
+---
+#### Call for Interns at OMRON SINIC X
+**OMRON SINIC X Corporation (OSX)** is the OMRON's brand-new start-up company located next to the University of Tokyo's Hongo Campus, 
 and is currently looking for intern students excellent in either computer vision, machine learning, or robotics. Accepted students will be offered a competitive salary (200k-400k JPY per month) with residence and travel supports.
 If you are interested in research stays in Tokyo, please feel free to contact internships@sinicx.com. More information available at: [[Call for Interns]](/papers/call_for_interns_v4.pdf).
 
-#### [>> Introduction in Japanese](/profile_j/)
+---
+
 
 # Research Interest
 **Computer Vision (First-Person Vision), and Machine Learning (Federated Learning)**
@@ -31,6 +38,7 @@ I am also interested in decentralized training such as Federated Learning, which
 [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
+- (June 19, 2018) We will organize a workshop on human attention and intention understanding in conjunction with ACCV'18. See you in Perth! [[Workshop Website]](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/).
 - (April 24, 2018) We posted [a new article](/dt_overview.html) to introduce our activities on decentralized training.
 - (April 24, 2018) We posted a new work on federated learning combined with mobile edge computing ([project page](/2018/04/24/ny-arxiv2018.html))
 - (April 17, 2018) We have released a part of our data used in our ECCV'16 work at [Datasets for First-Person Vision](/fpv_data.html)
