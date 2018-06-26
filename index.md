@@ -9,7 +9,7 @@ title: Home
 
 **Research Associate** in the Institute of Industrial Science at the University of Tokyo
 
-**Research Advisor** at OMRON SINIC X Corporation (effective June 21, 2018)
+**Technical Advisor** at OMRON SINIC X Corporation (effective June 21, 2018)
 
 mail: yonetani +at+ iis.u-tokyo.ac.jp \| ryo.yonetani +at+ sinicx.com
 
@@ -38,6 +38,7 @@ I am also interested in decentralized training such as Federated Learning, which
 [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
+- (June 26, 2018) Released a demo code of the [correlation-based person search](https://github.com/yonetaniryo/corrsearch_TPAMI) presented in our TPAMI paper.
 - (June 19, 2018) We will organize a workshop on human attention and intention understanding in conjunction with ACCV'18. See you in Perth! [[Workshop Website]](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/).
 - (April 24, 2018) We posted [a new article](/dt_overview.html) to introduce our activities on decentralized training.
 - (April 24, 2018) We posted a new work on federated learning combined with mobile edge computing ([project page](/2018/04/24/ny-arxiv2018.html))

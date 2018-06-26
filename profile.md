@@ -13,7 +13,7 @@ I am currently a research associate at the Institute of Industrial Science, the 
 
 ## Appointments
 - Research Associate @ The University of Tokyo, 2014 - Present
-- Research Advisor @ OMRON SINIC X Corporation, 2018 - Present
+- Technical Advisor @ OMRON SINIC X Corporation, 2018 - Present
 - Visiting Scholar @ Robotics Institute, Carnegie Mellon University, 2016 - 2017
 - Research Fellow of Japan Society for Promotion of Science (PD) @ The University of Tokyo, 2014
 - Research Fellow of Japan Society for Promotion of Science (DC2) @ Kyoto University, 2012 - 2013
