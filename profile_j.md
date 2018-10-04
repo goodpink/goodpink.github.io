@@ -79,7 +79,7 @@ permalink: /profile_j/
 [DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ) \| [CiNii](http://ci.nii.ac.jp/nrid/9000017546008)
 
 #### 査読付き雑誌論文
-- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures", accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**
+- Ryo Yonetani, Kris Kitani, Yoichi Sato: "Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures", IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, Vol.40, Issue 11, pp.2749-2761, 2018.
 - 下西慶, 石川惠理奈, 米谷竜, 川嶋宏彰, 松山隆司: "視線運動解析による興味アスペクトの推定", ヒューマンインタフェース学会論文誌, Vol.16, No2, pp.103-114, 2014
 - Akisato Kimura, Ryo Yonetani, Takatsugu Hirayama: "Computational Models of Human Visual Attention and Their Implementations: A Survey", IEICE Transactions on Information and Systems, E96-D(3), pp.562-578, 2013
 - Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: Learning Spatiotemporal Gaps between Where We Look and What We Focus on", IPSJ Transactions on Computer Vision and Applications, 5, pp. 75-79, 2013
