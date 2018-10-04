@@ -38,6 +38,7 @@ I am also interested in decentralized training such as Federated Learning, which
 [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
+- (October 4, 2018) One paper accepted to ACM ISS.
 - (June 26, 2018) Released a demo code of the [correlation-based person search](https://github.com/yonetaniryo/corrsearch_TPAMI) presented in our TPAMI paper.
 - (June 19, 2018) We will organize a workshop on human attention and intention understanding in conjunction with ACCV'18. See you in Perth! [[Workshop Website]](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/).
 - (April 24, 2018) We posted [a new article](/dt_overview.html) to introduce our activities on decentralized training.
