@@ -17,9 +17,8 @@ mail: yonetani +at+ iis.u-tokyo.ac.jp \| ryo.yonetani +at+ sinicx.com
 
 ---
 #### Call for Interns at OMRON SINIC X
-**OMRON SINIC X Corporation (OSX)** is the OMRON's brand-new start-up company located next to the University of Tokyo's Hongo Campus, 
-and is currently looking for intern students excellent in either computer vision, machine learning, or robotics. Accepted students will be offered a competitive salary (200k-400k JPY per month) with residence and travel supports.
-If you are interested in research stays in Tokyo, please feel free to contact internships@sinicx.com. More information available at: [[Call for Interns]](/papers/call_for_interns_v5.pdf).
+**OMRON SINIC X Corporation (OSX)** is the OMRON's brand-new start-up company located next to the University of Tokyo's Hongo Campus.
+We are looking for intern students excellent in either computer vision, machine learning, or robotics. Accepted students will be offered a base salary of 200k-400k JPY per month (full-time) with residence and transport fully covered. If you are interested in research stays in Tokyo, please feel free to contact internships@sinicx.com. More information available at: [[Call for Interns]](/papers/call_for_interns_osx.pdf).
 
 ---
 
@@ -38,7 +37,8 @@ I am also interested in decentralized training such as Federated Learning, which
 [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
-- (October 4, 2018) One paper accepted to ACM ISS.
+- (December 16, 2018) One paper accepted by ACM IUI.
+- (October 4, 2018) One paper accepted by ACM ISS.
 - (June 26, 2018) Released a demo code of the [correlation-based person search](https://github.com/yonetaniryo/corrsearch_TPAMI) presented in our TPAMI paper.
 - (June 19, 2018) We will organize a workshop on human attention and intention understanding in conjunction with ACCV'18. See you in Perth! [[Workshop Website]](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/).
 - (April 24, 2018) We posted [a new article](/dt_overview.html) to introduce our activities on decentralized training.
