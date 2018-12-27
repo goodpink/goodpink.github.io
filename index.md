@@ -7,11 +7,9 @@ title: Home
 
 # Ryo Yonetani, Ph.D.
 
-**Research Associate** in the Institute of Industrial Science at the University of Tokyo
+**Senior Researcher** at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/)
 
-**Technical Advisor** at OMRON SINIC X Corporation (effective June 21, 2018)
-
-mail: yonetani +at+ iis.u-tokyo.ac.jp \| ryo.yonetani +at+ sinicx.com
+mail: ryo.yonetani +at+ sinicx.com
 
 #### [>> Introduction in Japanese](/profile_j/)
 
@@ -32,11 +30,12 @@ I like to use wearable cameras for various human sensing problems. Much of my re
 
 [>> Datasets for First-Person Vision](/fpv_data.html)
 
-I am also interested in decentralized training such as Federated Learning, which leverages highly-distributed clients for training deep neural networks while preserving data privacy.
+I am also interested in decentralized training such as Federated Learning, which utilizes distributed data and computational resources of multiple client devices to enable a large-scale training.
 
 [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
+- (January 1, 2019) **After five wonderful years at UTokyo, I joined OMRON SINIC X as a senior researcher.**
 - (December 16, 2018) One paper accepted by ACM IUI.
 - (October 4, 2018) One paper accepted by ACM ISS.
 - (June 26, 2018) Released a demo code of the [correlation-based person search](https://github.com/yonetaniryo/corrsearch_TPAMI) presented in our TPAMI paper.

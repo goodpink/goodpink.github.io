@@ -4,16 +4,15 @@ title: Profile
 permalink: /profile/
 ---
 
-I am currently a research associate at the Institute of Industrial Science, the University of Tokyo. My research interests include computer vision (first-person vision and activity recognition), machine learning, and human computer interaction.
-
 ## Education
 - Ph.D. in Informatics @ Kyoto University, 2013
 - Master's degree in Informatics @ Kyoto University, 2011
 - Bachelor's degree in Electrical and Electronic Engineering @ Kyoto University, 2009
 
 ## Appointments
-- Research Associate @ The University of Tokyo, 2014 - Present
-- Technical Advisor @ OMRON SINIC X Corporation, 2018 - Present
+- Senior Researcher @ OMRON SINIC X Corporation, 2019 - Present
+- Research Associate @ The University of Tokyo, 2014 - 2018
+- Technical Advisor @ OMRON SINIC X Corporation, 2018
 - Visiting Scholar @ Robotics Institute, Carnegie Mellon University, 2016 - 2017
 - Research Fellow of Japan Society for Promotion of Science (PD) @ The University of Tokyo, 2014
 - Research Fellow of Japan Society for Promotion of Science (DC2) @ Kyoto University, 2012 - 2013
