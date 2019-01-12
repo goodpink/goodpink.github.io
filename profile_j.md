@@ -58,6 +58,7 @@ permalink: /profile_j/
 - JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016 - 現在
 
 ## 学会活動
+- Publicity Chair @ [Asian Conference on Computer Vision (ACCV2020)](http://accv2020.kyoto/)
 - 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 幹事, 2018-現在
 - Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
 - 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員, 2017-現在
