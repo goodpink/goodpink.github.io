@@ -58,7 +58,9 @@ permalink: /profile_j/
 - JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016 - 現在
 
 ## 学会活動
+- Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2019)](https://cvcops19.cispa.saarland/) at CVPR2019
 - Publicity Chair @ [Asian Conference on Computer Vision (ACCV2020)](http://accv2020.kyoto/)
+- Organizer @ [International Workshop on Attention/Intention Understanding (AIU2018)](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/) at ACCV2018.
 - 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 幹事, 2018-現在
 - Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
 - 情報処理学会 論文誌ジャーナル/JIP編集委員会 編集委員, 2017-現在
@@ -92,6 +94,7 @@ permalink: /profile_j/
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "Gaze Probing: イベント提示に基づく注視オブジェクト推定", ヒューマンインタフェース学会論文誌, Vol.12, No.3, pp. 125-135, 2010
 
 #### 国際会議論文
+- Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
 - Takayuki Nishio and Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[project]](/2018/04/24/ny-arxiv2018.html)
 - Nathawan Charoenkulvanich, Rie Kamikubo, Ryo Yonetani, and Yoichi Sato, "Assisting Group Activity Analysis through Hand Detection and Identification in Multiple Egocentric Videos", ACM Conference on Intelligent User Interface **(IUI)**, 2019.
 - Yuki Sugita, Keita Higuchi, Ryo Yonetani, Rie Kamikubo, Yoichi Sato: "Browsing Group First-Person Videos with 3D Visualization", accepted to ACM International Conference on Interactive Surfaces and Spaces (ISS), 2018
@@ -153,8 +156,5 @@ permalink: /profile_j/
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "提示イベントと眼球動作との同期構造分析に基づく注視対象推定", 情報処理学会研究会資料 CVIM 167-16, 2009
 
 #### 特許
-- 近藤  敏之, 奥野  英一, 安部  克則, 蜂須賀  啓介, 佐藤  洋一, 米谷  竜, 菅野  裕介, 岡  晃平, 杉本  晃宏: "注視誘導装置", 特願2014-219450, 2014年10月28日
-- 坂田  幸太郎, 前田  茂則, 米谷  竜, 川嶋  宏彰, 平山  高嗣, 松山  隆司: "関心度推定装置および関心度推定方法", JP2012000508, 2012年1月26日
-- 坂田  幸太郎, 前田  茂則, 米谷  竜, 川嶋  宏彰, 平山  高嗣, 松山  隆司: "関心度推定装置および関心度推定方法", 特願2012-535534, 2012年1月26日
-- 木村  昭悟, 坂野  鋭, 米谷  竜: "物体領域検出装置, 方法, 及びプログラム", 特願2012-002544, 2012年1月10日
+https://patents.google.com/?inventor=Ryo+Yonetani 
 
