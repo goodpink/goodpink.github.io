@@ -35,6 +35,7 @@ I am also interested in decentralized training such as Federated Learning, which
 [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
+- (March 6, 2019) New work on multi-agent imitation learning is available on [arXiv](https://arxiv.org/abs/1903.01537).
 - (February 7, 2019) Paper on Federated Learning was accepted by International Conference on Communications.
 - (January 12, 2019) I will serve as a publicity chair at [ACCV 2020](http://accv2020.kyoto/). See you in Kyoto!
 - (January 1, 2019) **After five wonderful years at UTokyo, I joined OMRON SINIC X as a senior researcher.**

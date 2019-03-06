@@ -9,6 +9,7 @@ permalink: /publications/
 [DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ)
 
 ## Conference Papers
+- Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
 - Takayuki Nishio and Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[project]](/2018/04/24/ny-arxiv2018.html)
 - Nathawan Charoenkulvanich, Rie Kamikubo, Ryo Yonetani, and Yoichi Sato, "Assisting Group Activity Analysis through Hand Detection and Identification in Multiple Egocentric Videos", ACM Conference on Intelligent User Interface **(IUI)**, 2019.
 - Yuki Sugita, Keita Higuchi, Ryo Yonetani, Rie Kamikubo, Yoichi Sato: "Browsing Group First-Person Videos with 3D Visualization", ACM International Conference on Interactive Surfaces and Spaces **(ISS)**, 2018
