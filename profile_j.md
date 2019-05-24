@@ -94,6 +94,7 @@ permalink: /profile_j/
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "Gaze Probing: イベント提示に基づく注視オブジェクト推定", ヒューマンインタフェース学会論文誌, Vol.12, No.3, pp. 125-135, 2010
 
 #### 国際会議論文
+- Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
 - Takayuki Nishio and Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[project]](/2018/04/24/ny-arxiv2018.html)
 - Nathawan Charoenkulvanich, Rie Kamikubo, Ryo Yonetani, and Yoichi Sato, "Assisting Group Activity Analysis through Hand Detection and Identification in Multiple Egocentric Videos", ACM Conference on Intelligent User Interface **(IUI)**, 2019.
