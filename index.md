@@ -9,14 +9,12 @@ title: Home
 
 **Senior Researcher** at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/)
 
+**Cooperative Research Fellow** at [Sato Lab in Institute of Industrial Science, The University of Tokyo](http://www.hci.iis.u-tokyo.ac.jp)
+
 mail: ryo.yonetani +at+ sinicx.com
 
 #### [>> Introduction in Japanese](/profile_j/)
 
----
-#### Call for Interns at OMRON SINIC X
-**OMRON SINIC X Corporation (OSX)** is the OMRON's brand-new start-up company located next to the University of Tokyo's Hongo Campus.
-We are looking for intern students excellent in either computer vision, machine learning, or robotics. Accepted students will be offered a base salary of 200k-400k JPY per month (full-time) with residence and transport fully covered. If you are interested in research stays in Tokyo, please feel free to contact internships@sinicx.com. More information available at: [[Call for Interns]](/papers/call_for_interns_osx.pdf).
 
 ---
 
