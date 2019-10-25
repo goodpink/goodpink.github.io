@@ -32,11 +32,12 @@ permalink: /profile_j/
 ## 受賞
 
 #### 本人によるもの
+- MIRUインタラクティブ賞, 画像の認識・理解シンポジウム, 2019
 - CVPR2017 Outstanding Reviewer, IEEE Conference on Computer Vision and Pattern Recognition, 2017
 - 山下記念研究賞, 情報処理学会, 2016
 - 情報・システムソサイエティ論文賞, 電子情報通信学会, 2014
 - H25 PRMU研究奨励賞, 電子情報通信学会パターン認識とメディア理解研究会, 2014
-- MIRU優秀学生論文賞, 画像の認識と理解シンポジウム, 2012
+- MIRU優秀学生論文賞, 画像の認識・理解シンポジウム, 2012
 - IBM Best Student Paper Award (Track IV: Biometrics and Human Computer Interaction), International Conference on Pattern Recognition, 2010
 
 #### 共著学生によるもの
@@ -95,6 +96,7 @@ permalink: /profile_j/
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "Gaze Probing: イベント提示に基づく注視オブジェクト推定", ヒューマンインタフェース学会論文誌, Vol.12, No.3, pp. 125-135, 2010
 
 #### 国際会議論文
+- Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", arXiv preprint, 2019 [[arXiv](https://arxiv.org/abs/1909.13111)]
 - Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
 - Takayuki Nishio and Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[project]](/2018/04/24/ny-arxiv2018.html)
@@ -113,7 +115,10 @@ permalink: /profile_j/
 - Ryo Yonetani, Hiroaki Kawashima, Takashi Matsuyama: "Multi-mode Saliency Dynamics Model for Analyzing Gaze and Attention", Eye Tracking Research & Applications **(ETRA)**, 2012 [[project]](/2012/03/28/ykm-etra2012.html)
 - Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Gaze Probing: Event-Based Estimation of Objects Being Focused On", International Conference on Pattern Recognition **(ICPR, IBM Best Student Paper Award)**, 2010
 
-#### 国際ワークショップ論文，Extended Abstracts
+#### 国際ワークショップ論文，Extended Abstracts, プレプリントなど
+- Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", arXiv preprint, 2019 [[arXiv](https://arxiv.org/abs/1909.13111)]
+- Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
+- Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Learning Group Communication from Demonstration", RSS Workshop on Models and Representations for Natural Human-Robot Communication, 2018
 - Seita Kayukawa, Keita Higuchi, Ryo Yonetani, Maanori Nakamura, Yoichi Sato, Shigeo Morishima: "Dynamic Object Scanning: Object-Based Elastic Timeline for Quickly Browsing First-Person Videos", ACM Conference on Human Factors in Computing Systems Late Breaking Work **(CHI-LBW)**, 2018
 - Keita Higuchi, Ryo Yonetani, Yoichi Sato: "EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines", ACM SIGGRAPH Asia Emerging Technologies **(SIGGRAPH-ASIA-ETECH)**, 2017
