@@ -60,6 +60,7 @@ permalink: /profile_j/
 - JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016 - 現在
 
 ## 学会活動
+- 画像の認識・理解シンポジウム2019 財務委員長
 - Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2019)](https://cvcops19.cispa.saarland/) at CVPR2019
 - Publicity Chair @ [Asian Conference on Computer Vision (ACCV2020)](http://accv2020.kyoto/)
 - Organizer @ [International Workshop on Attention/Intention Understanding (AIU2018)](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/) at ACCV2018.
