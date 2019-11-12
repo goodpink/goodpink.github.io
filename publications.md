@@ -8,7 +8,7 @@ permalink: /publications/
 
 [DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ)
 
-## Conference Papers
+## Conference Papers, arXiv Preprints 
 - Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", arXiv preprint, 2019 [[arXiv](https://arxiv.org/abs/1909.13111)]
 - Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
