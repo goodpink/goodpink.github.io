@@ -60,8 +60,9 @@ permalink: /profile_j/
 - JST戦略的国際共同研究プログラム（SICORP）, "多様なカメラを活用した群衆行動の変化検出"（代表: 佐藤洋一）, 2016 - 現在
 
 ## 学会活動
-- Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2019)](https://cvcops19.cispa.saarland/) at CVPR2019
 - Publicity Chair @ [Asian Conference on Computer Vision (ACCV2020)](http://accv2020.kyoto/)
+- 画像の認識・理解シンポジウム (MIRU) 2019 財務委員長
+- Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2019)](https://cvcops19.cispa.saarland/) at CVPR2019
 - Organizer @ [International Workshop on Attention/Intention Understanding (AIU2018)](http://www.sys.info.hiroshima-cu.ac.jp/aiu2018/) at ACCV2018.
 - 情報処理学会コンピュータビジョンとイメージメディア（CVIM）研究会 幹事, 2018-現在
 - Program Committee Member @ [The Bright and Dark Sides of Computer Vision: Challenges and Opportunities for Privacy and Security (CV-COPS2018)](http://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) at CVPR2018
@@ -96,9 +97,9 @@ permalink: /profile_j/
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "Gaze Probing: イベント提示に基づく注視オブジェクト推定", ヒューマンインタフェース学会論文誌, Vol.12, No.3, pp. 125-135, 2010
 
 #### 国際会議論文
-- Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", arXiv preprint, 2019 [[arXiv](https://arxiv.org/abs/1909.13111)]
-- Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
-- Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
+- Rie Kamikubo, Naoya Kato, Keita Higuchi, Ryo Yonetani, Yoichi Sato, "Studying Effective Agents in Remote Sighted Guidance for People Navigating with Visual Impairments", ACM Conference on Human Factors in Computing Systems **(CHI)**, 2020 
+- Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2020 [[arXiv]](https://arxiv.org/abs/1903.01537)
+- Naoya Yoshida, Takayuki Nishio, Masahiro Morikura, Koji Yamamoto, Ryo Yonetani, "Hybrid-FL for Wireless Networks: Cooperative Learning Mechanism Using Non-IID Data", IEEE International Conference on Communications **(ICC)**, 2020 [[arXiv]](https://arxiv.org/abs/1905.07210)
 - Takayuki Nishio and Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[project]](/2018/04/24/ny-arxiv2018.html)
 - Nathawan Charoenkulvanich, Rie Kamikubo, Ryo Yonetani, and Yoichi Sato, "Assisting Group Activity Analysis through Hand Detection and Identification in Multiple Egocentric Videos", ACM Conference on Intelligent User Interface **(IUI)**, 2019.
 - Yuki Sugita, Keita Higuchi, Ryo Yonetani, Rie Kamikubo, Yoichi Sato: "Browsing Group First-Person Videos with 3D Visualization", accepted to ACM International Conference on Interactive Surfaces and Spaces (ISS), 2018
@@ -116,6 +117,7 @@ permalink: /profile_j/
 - Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Gaze Probing: Event-Based Estimation of Objects Being Focused On", International Conference on Pattern Recognition **(ICPR, IBM Best Student Paper Award)**, 2010
 
 #### 国際ワークショップ論文，Extended Abstracts, プレプリントなど
+- Mai Nishimura, Ryo Yonetani, Yoichi Sato, "L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation", arXiv preprint, 2020, [[arXiv]](https://arxiv.org/abs/2003.09207)
 - Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", arXiv preprint, 2019 [[arXiv](https://arxiv.org/abs/1909.13111)]
 - Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)

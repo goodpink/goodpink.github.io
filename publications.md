@@ -8,12 +8,15 @@ permalink: /publications/
 
 [DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ)
 
-## Conference Papers
+## Conference Papers, arXiv Preprints
+- Mai Nishimura, Ryo Yonetani, Yoichi Sato, "L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation", arXiv preprint, 2020, [[arXiv]](https://arxiv.org/abs/2003.09207)
+- Rie Kamikubo, Naoya Kato, Keita Higuchi, Ryo Yonetani, Yoichi Sato, "Studying Effective Agents in Remote Sighted Guidance for People Navigating with Visual Impairments", ACM Conference on Human Factors in Computing Systems **(CHI)**, 2020 
+- Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2020 [[arXiv]](https://arxiv.org/abs/1903.01537)
+- Naoya Yoshida, Takayuki Nishio, Masahiro Morikura, Koji Yamamoto, Ryo Yonetani, "Hybrid-FL for Wireless Networks: Cooperative Learning Mechanism Using Non-IID Data", IEEE International Conference on Communications **(ICC)**, 2020 [[arXiv]](https://arxiv.org/abs/1905.07210)
 - Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", arXiv preprint, 2019 [[arXiv](https://arxiv.org/abs/1909.13111)]
 - Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
-- Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
-- Takayuki Nishio and Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[project]](/2018/04/24/ny-arxiv2018.html)
-- Nathawan Charoenkulvanich, Rie Kamikubo, Ryo Yonetani, and Yoichi Sato, "Assisting Group Activity Analysis through Hand Detection and Identification in Multiple Egocentric Videos", ACM Conference on Intelligent User Interface **(IUI)**, 2019.
+- Takayuki Nishio, Ryo Yonetani: "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge", IEEE International Conference on Communications **(ICC)**, 2019 [[project]](/2018/04/24/ny-arxiv2018.html)
+- Nathawan Charoenkulvanich, Rie Kamikubo, Ryo Yonetani, Yoichi Sato, "Assisting Group Activity Analysis through Hand Detection and Identification in Multiple Egocentric Videos", ACM Conference on Intelligent User Interface **(IUI)**, 2019.
 - Yuki Sugita, Keita Higuchi, Ryo Yonetani, Rie Kamikubo, Yoichi Sato: "Browsing Group First-Person Videos with 3D Visualization", ACM International Conference on Interactive Surfaces and Spaces **(ISS)**, 2018
 - Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: "Future Person Localization in First-Person Videos", IEEE Conference on Computer Vision and Pattern Recognition **(CVPR, spotlight presentation)**, 2018 [[project]](/2018/02/19/ymys-cvpr2018.html)
 - Rie Kamikubo, Keita Higuchi, Ryo Yonetani, Hideki Koike, Yoichi Sato, "Exploring the Role of Tunnel Vision Simulation in the Design Cycle of Accessible Interfaces", International Cross-Disciplinary Conference on Web Accessibility **(Web4All)**, 2018
