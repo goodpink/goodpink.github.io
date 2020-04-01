@@ -10,8 +10,9 @@ permalink: /profile/
 - Bachelor's degree in Electrical and Electronic Engineering @ Kyoto University, 2009
 
 ## Appointments
+- Principal Investigator @ OMRON SINIC X Corporation, 2020 - Present
 - Cooperative Research Fellow @ The University of Tokyo, 2019 - Present
-- Senior Researcher @ OMRON SINIC X Corporation, 2019 - Present
+- Senior Researcher @ OMRON SINIC X Corporation, 2019 - 2020
 - Research Associate @ The University of Tokyo, 2014 - 2018
 - Technical Advisor @ OMRON SINIC X Corporation, 2018
 - Visiting Scholar @ Robotics Institute, Carnegie Mellon University, 2016 - 2017

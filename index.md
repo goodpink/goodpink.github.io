@@ -7,7 +7,7 @@ title: Home
 
 # Ryo Yonetani, Ph.D.
 
-**Senior Researcher** at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/)
+**Principal Investigator** at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/)
 
 **Cooperative Research Fellow** at [Sato Lab in Institute of Industrial Science, The University of Tokyo](http://www.hci.iis.u-tokyo.ac.jp)
 
