@@ -118,7 +118,7 @@ permalink: /profile_j/
 - Ryo Yonetani, Hiroaki Kawashima, Takatsugu Hirayama, Takashi Matsuyama: "Gaze Probing: Event-Based Estimation of Objects Being Focused On", International Conference on Pattern Recognition **(ICPR, IBM Best Student Paper Award)**, 2010
 
 #### 国際ワークショップ論文，Extended Abstracts, プレプリントなど
-- Mai Nishimura, Ryo Yonetani, Yoichi Sato, "L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation", arXiv preprint, 2020, [[arXiv]](https://arxiv.org/abs/2003.09207)
+- Mai Nishimura, Ryo Yonetani, "L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation", arXiv preprint, 2020, [[arXiv]](https://arxiv.org/abs/2003.09207)
 - Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", arXiv preprint, 2019 [[arXiv](https://arxiv.org/abs/1909.13111)]
 - Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)

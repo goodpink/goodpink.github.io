@@ -9,7 +9,7 @@ permalink: /publications/
 [DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ)
 
 ## Conference Papers, arXiv Preprints
-- Mai Nishimura, Ryo Yonetani, Yoichi Sato, "L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation", arXiv preprint, 2020, [[arXiv]](https://arxiv.org/abs/2003.09207)
+- Mai Nishimura, Ryo Yonetani, "L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation", arXiv preprint, 2020, [[arXiv]](https://arxiv.org/abs/2003.09207)
 - Rie Kamikubo, Naoya Kato, Keita Higuchi, Ryo Yonetani, Yoichi Sato, "Studying Effective Agents in Remote Sighted Guidance for People Navigating with Visual Impairments", ACM Conference on Human Factors in Computing Systems **(CHI)**, 2020 
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2020 [[arXiv]](https://arxiv.org/abs/1903.01537)
 - Naoya Yoshida, Takayuki Nishio, Masahiro Morikura, Koji Yamamoto, Ryo Yonetani, "Hybrid-FL for Wireless Networks: Cooperative Learning Mechanism Using Non-IID Data", IEEE International Conference on Communications **(ICC)**, 2020 [[arXiv]](https://arxiv.org/abs/1905.07210)
