@@ -98,6 +98,7 @@ permalink: /profile_j/
 - 米谷竜, 川嶋宏彰, 平山高嗣, 松山隆司: "Gaze Probing: イベント提示に基づく注視オブジェクト推定", ヒューマンインタフェース学会論文誌, Vol.12, No.3, pp. 125-135, 2010
 
 #### 国際会議論文
+- Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", accepted to International Joint Conference on Artificial Intelligence **(IJCAI)**, 2020 [[arXiv](https://arxiv.org/abs/1909.13111)]
 - Rie Kamikubo, Naoya Kato, Keita Higuchi, Ryo Yonetani, Yoichi Sato, "Studying Effective Agents in Remote Sighted Guidance for People Navigating with Visual Impairments", ACM Conference on Human Factors in Computing Systems **(CHI)**, 2020 
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", International Conference on Autonomous Agents and Multi-Agent Systems **(AAMAS)**, 2020 [[arXiv]](https://arxiv.org/abs/1903.01537)
 - Naoya Yoshida, Takayuki Nishio, Masahiro Morikura, Koji Yamamoto, Ryo Yonetani, "Hybrid-FL for Wireless Networks: Cooperative Learning Mechanism Using Non-IID Data", IEEE International Conference on Communications **(ICC)**, 2020 [[arXiv]](https://arxiv.org/abs/1905.07210)
@@ -119,7 +120,6 @@ permalink: /profile_j/
 
 #### 国際ワークショップ論文，Extended Abstracts, プレプリントなど
 - Mai Nishimura, Ryo Yonetani, "L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation", arXiv preprint, 2020, [[arXiv]](https://arxiv.org/abs/2003.09207)
-- Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", arXiv preprint, 2019 [[arXiv](https://arxiv.org/abs/1909.13111)]
 - Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku, "Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1905.09684)
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Modeling Social Group Communication with Multi-Agent Imitation Learning", arXiv preprint, 2019 [[arXiv]](https://arxiv.org/abs/1903.01537)
 - Navyata Sanghvi, Ryo Yonetani, Kris Kitani, "Learning Group Communication from Demonstration", RSS Workshop on Models and Representations for Natural Human-Robot Communication, 2018
