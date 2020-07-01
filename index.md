@@ -28,6 +28,7 @@ mail: ryo.yonetani +at+ sinicx.com
   - [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
+- (Jul 1, 2020) Paper on interactive crowd-aware navigation has been accepted to IROS! [arXiv](https://arxiv.org/abs/2003.09207).
 - (May 4, 2020) Paper on Transfer RL has been accepted to IJCAI! [project page](https://yonetaniryo.github.io/multipolar/)
 - (Mar 23, 2020) New work on crowd-aware navigation is available on [arXiv](https://arxiv.org/abs/2003.09207).
 - (Oct 26, 2019) Our call for interns (computer vision track, available from 2020/04) is now [available](https://medium.com/sinicx/call-for-interns-computer-vision-track-available-from-2020-04-6328e7c814d1).
