@@ -9,6 +9,8 @@ permalink: /publications/
 [DBLP](http://dblp.uni-trier.de/pers/hd/y/Yonetani:Ryo) \| [Google Scholar](https://scholar.google.com/citations?user=DYXnRWEAAAAJ)
 
 ## Conference Papers, arXiv Preprints
+- Ryo Yonetani, Tatsunori Taniai, Mohammadamin Barekatain, Mai Nishimura, Asako Kanezaki, "Path Planning using Neural A* Search", arXiv preprint, 2020 [[arXiv]](https://arxiv.org/abs/2009.07476)
+- Jiaxin Ma, Ryo Yonetani, Zahid Iqbal, "Adaptive Distillation for Decentralized Learning from Heterogeneous Clients", arXiv preprint, 2020 [[arXiv]](https://arxiv.org/abs/2008.07948)
 - Mai Nishimura, Ryo Yonetani, "L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation", accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)**, 2020, [[arXiv]](https://arxiv.org/abs/2003.09207)
 - Mohammadamin Barekatain, Ryo Yonetani, Masashi Hamaya, "MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics", accepted to International Joint Conference on Artificial Intelligence **(IJCAI)**, 2020 [[arXiv](https://arxiv.org/abs/1909.13111)]
 - Rie Kamikubo, Naoya Kato, Keita Higuchi, Ryo Yonetani, Yoichi Sato, "Studying Effective Agents in Remote Sighted Guidance for People Navigating with Visual Impairments", ACM Conference on Human Factors in Computing Systems **(CHI)**, 2020 

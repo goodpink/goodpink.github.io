@@ -28,6 +28,7 @@ mail: ryo.yonetani +at+ sinicx.com
   - [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
+- (Sep 17, 2020) New work on differentiable A* search is available on [arXiv](https://arxiv.org/abs/2009.07476).
 - (Jul 1, 2020) Paper on interactive crowd-aware navigation has been accepted to IROS! [arXiv](https://arxiv.org/abs/2003.09207).
 - (May 4, 2020) Paper on Transfer RL has been accepted to IJCAI! [project page](https://yonetaniryo.github.io/multipolar/)
 - (Mar 23, 2020) New work on crowd-aware navigation is available on [arXiv](https://arxiv.org/abs/2003.09207).
