@@ -24,7 +24,7 @@ mail: ryo.yonetani +at+ sinicx.com
 - First person vision
   - [>> Project: First-Person Vision with Multiple Wearable Cameras](/fpv_overview.html)
   - [>> Datasets for First-Person Vision](/fpv_data.html)
-- Decentralied learning
+- Decentralized learning
   - [>> Project: Practical Considerations of Decentralized Training](/dt_overview.html)
 
 # News
