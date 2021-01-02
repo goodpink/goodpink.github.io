@@ -240,7 +240,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.b01f95fd5bb44f4d16e49a2070912cfa.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.8c1fc771174f5652d1fb9c8b73e872d5.css">
 
   
 
@@ -360,9 +361,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.1df0392aab543464b23a85146803aaf2.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -382,6 +388,8 @@
         
       </div>
 
+      
+
     </section>
     <section class="section-search-results">
 
@@ -392,6 +400,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -556,6 +565,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -735,28 +750,33 @@
 </ul>
 <h2 id="our-projects">Our Projects</h2>
 <h3 id="future-person-localization-cvpr18">Future Person Localization (CVPR'18)</h3>
-<p>We present a new task that predicts future locations of people observed in first-person videos. Consider a first-person video stream continuously recorded by a wearable camera. Given a short clip of a person that is extracted from the complete stream, we aim to predict his location in future frames. To facilitate this future person localization ability, we make the following three key observations: a) First-person videos typically involve significant ego-motion which greatly affects the location of the target person in future frames; b) Scale of the target person act as a salient cue to estimate a perspective effect in first-person videos; c) First-person videos often capture people up-close, making it easier to leverage target poses (e.g. where they look) for predicting their future locations. We incorporate these three observations into a prediction framework with a multi-stream convolution-deconvolution architecture. Experimental results reveal our method to be effective on our new dataset as well as on a public social interaction dataset.</p>
+<p><img src="ymys_cvpr2018.png" alt="ymys_cvpr2018.png">
+We present a new task that predicts future locations of people observed in first-person videos. Consider a first-person video stream continuously recorded by a wearable camera. Given a short clip of a person that is extracted from the complete stream, we aim to predict his location in future frames. To facilitate this future person localization ability, we make the following three key observations: a) First-person videos typically involve significant ego-motion which greatly affects the location of the target person in future frames; b) Scale of the target person act as a salient cue to estimate a perspective effect in first-person videos; c) First-person videos often capture people up-close, making it easier to leverage target poses (e.g. where they look) for predicting their future locations. We incorporate these three observations into a prediction framework with a multi-stream convolution-deconvolution architecture. Experimental results reveal our method to be effective on our new dataset as well as on a public social interaction dataset.</p>
 <ul>
 <li>Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: “Future Person Localization in First-Person Videos”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR, spotlight presentation), 2018 [<a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Yagi_Future_Person_Localization_CVPR_2018_paper.html" target="_blank" rel="noopener">Paper</a>] [<a href="https://github.com/takumayagi/fpl" target="_blank" rel="noopener">Code</a>]</li>
 </ul>
 <h3 id="person-identification-cvpr15-tpami18">Person Identification (CVPR'15, TPAMI'18)</h3>
-<p>We developed a self-search technique tailored to first-person videos. The key observation of our work is that the egocentric head motion of a target person (ie, the self) is observed both in the POV video of the target and observer. The motion correlation between the target person’s video and the observer’s video can then be used to identify instances of the self uniquely. We incorporate this feature into the proposed approach that computes the motion correlation over densely-sampled trajectories to search for a target in observer videos. Our approach significantly improves self-search performance over several well-known face detectors and recognizers. Furthermore, we show how our approach can enable several practical applications such as privacy filtering, target video retrieval, and social group clustering.</p>
+<p><img src="yks_cvpr2015.png" alt="yks_cvpr2015.png">
+We developed a self-search technique tailored to first-person videos. The key observation of our work is that the egocentric head motion of a target person (ie, the self) is observed both in the POV video of the target and observer. The motion correlation between the target person’s video and the observer’s video can then be used to identify instances of the self uniquely. We incorporate this feature into the proposed approach that computes the motion correlation over densely-sampled trajectories to search for a target in observer videos. Our approach significantly improves self-search performance over several well-known face detectors and recognizers. Furthermore, we show how our approach can enable several practical applications such as privacy filtering, target video retrieval, and social group clustering.</p>
 <ul>
 <li>Ryo Yonetani, Kris Kitani, Yoichi Sato: “Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol.40, Issue 11, pp.2749-2761, 2018 [<a href="https://arxiv.org/abs/1606.04637" target="_blank" rel="noopener">Paper</a>] [<a href="https://www.dropbox.com/s/onx530l5doqbrsb/yks_cvpr2015.zip?dl=0" target="_blank" rel="noopener">Dataset</a>]</li>
 <li>Ryo Yonetani, Kris Kitani, Yoichi Sato: “Ego-Surfing First-Person Videos”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Yonetani_Ego-Surfing_First-Person_Videos_2015_CVPR_paper.html" target="_blank" rel="noopener">Paper</a>]</li>
 </ul>
 <h3 id="action-recognition-cvpr16">Action Recognition (CVPR'16)</h3>
-<p>We aim to understand the dynamics of social interactions between two people by recognizing their actions and reactions using a head-mounted camera. To recognize micro-level actions and reactions, such as slight shifts in attention, subtle nodding, or small hand actions, where only subtle body motion is apparent, we propose to use paired egocentric videos recorded by two interacting people. We show that the first-person and second-person points-of-view features of two people, enabled by paired egocentric videos, are complementary and essential for reliably recognizing micro-actions and reactions. We also build a new dataset of dyadic (two-persons) interactions that comprises more than 1000 pairs of egocentric videos to enable systematic evaluations on the task of micro-action and reaction recognition.</p>
+<p><img src="yks_cvpr2016.png" alt="yks_cvpr2016.png">
+We aim to understand the dynamics of social interactions between two people by recognizing their actions and reactions using a head-mounted camera. To recognize micro-level actions and reactions, such as slight shifts in attention, subtle nodding, or small hand actions, where only subtle body motion is apparent, we propose to use paired egocentric videos recorded by two interacting people. We show that the first-person and second-person points-of-view features of two people, enabled by paired egocentric videos, are complementary and essential for reliably recognizing micro-actions and reactions. We also build a new dataset of dyadic (two-persons) interactions that comprises more than 1000 pairs of egocentric videos to enable systematic evaluations on the task of micro-action and reaction recognition.</p>
 <ul>
 <li>Ryo Yonetani, Kris Kitani, Yoichi Sato: “Recognizing Micro-Actions and Reactions from Paired Egocentric Videos”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yonetani_Recognizing_Micro-Actions_and_CVPR_2016_paper.html" target="_blank" rel="noopener">Paper</a>] [<a href="https://www.dropbox.com/s/ihy5qdoliktfozx/yks_cvpr2016_release.zip?dl=0" target="_blank" rel="noopener">Dataset</a>]</li>
 </ul>
 <h3 id="landmark-discovery-eccv16">Landmark Discovery (ECCV'16)</h3>
-<p>Visual motifs are images of visual experiences that are significant and shared across many people, such as an image of an informative sign viewed by many people and that of a familiar social situation such as when interacting with a clerk at a store. The goal of this study is to discover visual motifs from a collection of first-person videos recorded by a wearable camera. To achieve this goal, we develop a commonality clustering method that leverages three important aspects: inter-video similarity, intra-video sparseness, and people’s visual attention. The problem is posed as normalized spectral clustering, and is solved efficiently using a weighted covariance matrix. Experimental results suggest the effectiveness of our method over several state-of-the-art methods in terms of both accuracy and efficiency of visual motif discovery.</p>
+<p><img src="yks_eccv2016.png" alt="yks_eccv2016.png">
+Visual motifs are images of visual experiences that are significant and shared across many people, such as an image of an informative sign viewed by many people and that of a familiar social situation such as when interacting with a clerk at a store. The goal of this study is to discover visual motifs from a collection of first-person videos recorded by a wearable camera. To achieve this goal, we develop a commonality clustering method that leverages three important aspects: inter-video similarity, intra-video sparseness, and people’s visual attention. The problem is posed as normalized spectral clustering, and is solved efficiently using a weighted covariance matrix. Experimental results suggest the effectiveness of our method over several state-of-the-art methods in terms of both accuracy and efficiency of visual motif discovery.</p>
 <ul>
 <li>Ryo Yonetani, Kris Kitani, Yoichi Sato: “Visual Motif Discovery via First-Person Vision”, European Conference on Computer Vision (ECCV), 2016 [<a href="https://link.springer.com/chapter/10.1007/978-3-319-46475-6_12" target="_blank" rel="noopener">Paper</a>] [<a href="https://www.dropbox.com/s/jt8d0ru2l2atvm0/yks_eccv2016_release.zip?dl=0" target="_blank" rel="noopener">Dataset</a>]</li>
 </ul>
 <h3 id="joint-attention-detection-cvprw16-iccvw17">Joint Attention Detection (CVPRW'16, ICCVW'17)</h3>
-<p>The goal of this work is to discover objects of joint attention, i.e., objects being viewed by multiple people using head-mounted cameras and eye trackers. Such objects of joint attention are expected to act as an important cue for understanding social interactions in everyday scenes. To this end, we develop a commonality-clustering method tailored to first-person videos combined with points-of-gaze sources. The proposed method uses multiscale spatiotemporal tubes around points of gaze as a candidate of objects, making it possible to deal with various sizes of objects observed in the first-person videos. We also introduce a new dataset of multiple pairs of first-person videos and points-of-gaze data. Our experimental results show that our approach can outperform several state-of-the-art commonality-clustering methods.</p>
+<p><img src="kyhs_cvprw2016.png" alt="kyhs_cvprw2016.png">
+The goal of this work is to discover objects of joint attention, i.e., objects being viewed by multiple people using head-mounted cameras and eye trackers. Such objects of joint attention are expected to act as an important cue for understanding social interactions in everyday scenes. To this end, we develop a commonality-clustering method tailored to first-person videos combined with points-of-gaze sources. The proposed method uses multiscale spatiotemporal tubes around points of gaze as a candidate of objects, making it possible to deal with various sizes of objects observed in the first-person videos. We also introduce a new dataset of multiple pairs of first-person videos and points-of-gaze data. Our experimental results show that our approach can outperform several state-of-the-art commonality-clustering methods.</p>
 <ul>
 <li>Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: “Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Video”, International Workshop on Egocentric Perception, Interaction, and Computing (EPIC), 2017 [<a href="http://openaccess.thecvf.com/content_ICCV_2017_workshops/w34/html/attention_hyfiis.u-tokyo.ac.jp_cai-mjiis.u-tokyo.ac.jp_keraiis.u-tokyo.ac.jp_ICCV_2017_paper.html" target="_blank" rel="noopener">Paper</a>]</li>
 <li>Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: “Discovering Objects of Joint Attention via First-Person Sensing”, IEEE CVPR Workshop on Egocentric (First-Person) Vision (EGOV), 2016 [<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w13/html/Kera_Discovering_Objects_of_CVPR_2016_paper.html" target="_blank" rel="noopener">Paper</a>]</li>
@@ -1133,7 +1153,7 @@
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks",
+        'event' : "Events",
         'slides' : "Slides"
         };
     </script>
@@ -1187,11 +1207,10 @@
     
     
       
+      
     
     
-    
-    
-    <script src="/js/wowchemy.min.76130252bc8c287b25144aa7a54dcd1f.js"></script>
+    <script src="/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
 
     
 

@@ -240,7 +240,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.b01f95fd5bb44f4d16e49a2070912cfa.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.8c1fc771174f5652d1fb9c8b73e872d5.css">
 
   
 
@@ -360,9 +361,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.1df0392aab543464b23a85146803aaf2.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -382,6 +388,8 @@
         
       </div>
 
+      
+
     </section>
     <section class="section-search-results">
 
@@ -392,6 +400,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -556,6 +565,12 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
       
       
       <li class="nav-item">
@@ -712,9 +727,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 539px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 287px;">
   <div style="position: relative">
-    <img src="/project/forecasting/featured_hua41b694109ea1c0b7f5e7d54e245c149_1040055_720x0_resize_q75_lanczos.jpg" alt="" class="featured-image">
+    <img src="/project/forecasting/featured_hu2ed3256f7fd8637ada23a2f609ef2c5f_89904_720x0_resize_q75_lanczos.jpg" alt="" class="featured-image">
     <span class="article-header-caption">Crowd density forecasting @ RA-L'20</span>
   </div>
 </div>
@@ -727,12 +742,14 @@
       <p>Activity forecasting refers to the problems of predicting future behaviors of people observed in videos. We are particularly interested in trajectory forecasting that is aimed at predicting whhere pedestrians (or essentially moving agents such as bikes and cars) will move from their past trajectories. Trajectory forecasting techniques could be useful for controlling mobile robots or autonomous vehicles while safely avoiding collisions with surrounding people, and will ultimately play a crucial role in the near future where people and robots live and work together.</p>
 <h2 id="our-projects">Our Projects</h2>
 <h3 id="crowd-density-forecasting-ra-l20">Crowd Density Forecasting (RA-L'20)</h3>
-<p>Forecasting human activities observed in videos is a long-standing challenge in computer vision and robotics and is also beneficial for various real-world applications such as mobile robot navigation and drone landing. In this work, we present a new forecasting task called crowd density forecasting . Given a video of a crowd captured by a surveillance camera, our goal is to predict how the density of the crowd will change in unseen future frames. To address this task, we developed the patch-based density forecasting networks (PDFNs), which directly forecasts crowd density maps of future frames instead of trajectories of each moving person in the crowd. The PDFNs represent crowd density maps based on spatially or spatiotemporally overlapping patches and learn a simple density dynamics of fewer people in each patch. Doing so allows us to efficiently deal with diverse and complex crowd density dynamics observed when input videos involve a variable number of crowds moving independently. Experimental results with several public datasets of surveillance videos demonstrate the effectiveness of our approaches compared with state-of-the-art forecasting methods.</p>
+<p><img src="mynu_ral2020.png" alt="mynu_ral2020.png">
+Forecasting human activities observed in videos is a long-standing challenge in computer vision and robotics and is also beneficial for various real-world applications such as mobile robot navigation and drone landing. In this work, we present a new forecasting task called crowd density forecasting . Given a video of a crowd captured by a surveillance camera, our goal is to predict how the density of the crowd will change in unseen future frames. To address this task, we developed the patch-based density forecasting networks (PDFNs), which directly forecasts crowd density maps of future frames instead of trajectories of each moving person in the crowd. The PDFNs represent crowd density maps based on spatially or spatiotemporally overlapping patches and learn a simple density dynamics of fewer people in each patch. Doing so allows us to efficiently deal with diverse and complex crowd density dynamics observed when input videos involve a variable number of crowds moving independently. Experimental results with several public datasets of surveillance videos demonstrate the effectiveness of our approaches compared with state-of-the-art forecasting methods.</p>
 <ul>
 <li>Hiroaki Minoura, Ryo Yonetani, Mai Nishimura, and Yoshitaka Ushiku, &ldquo;Crowd Density Forecasting by Modeling Patch-based Dynamics&rdquo;, IEEE Robotics and Automation Letters, 2020 [<a href="https://ieeexplore.ieee.org/document/9286551" target="_blank" rel="noopener">Paper</a>] [<a href="https://medium.com/sinicx/crowd-density-forecasting-by-modeling-patch-based-dynamics-ieee-ra-l-4053a276c2f4" target="_blank" rel="noopener">Blog</a>]</li>
 </ul>
 <h3 id="future-person-localization-cvpr18">Future Person Localization (CVPR'18)</h3>
-<p>We present a new task that predicts future locations of people observed in first-person videos. Consider a first-person video stream continuously recorded by a wearable camera. Given a short clip of a person that is extracted from the complete stream, we aim to predict his location in future frames. To facilitate this future person localization ability, we make the following three key observations: a) First-person videos typically involve significant ego-motion which greatly affects the location of the target person in future frames; b) Scale of the target person act as a salient cue to estimate a perspective effect in first-person videos; c) First-person videos often capture people up-close, making it easier to leverage target poses (e.g. where they look) for predicting their future locations. We incorporate these three observations into a prediction framework with a multi-stream convolution-deconvolution architecture. Experimental results reveal our method to be effective on our new dataset as well as on a public social interaction dataset.</p>
+<p><img src="featured.jpg" alt="featured.jpg">
+We present a new task that predicts future locations of people observed in first-person videos. Consider a first-person video stream continuously recorded by a wearable camera. Given a short clip of a person that is extracted from the complete stream, we aim to predict his location in future frames. To facilitate this future person localization ability, we make the following three key observations: a) First-person videos typically involve significant ego-motion which greatly affects the location of the target person in future frames; b) Scale of the target person act as a salient cue to estimate a perspective effect in first-person videos; c) First-person videos often capture people up-close, making it easier to leverage target poses (e.g. where they look) for predicting their future locations. We incorporate these three observations into a prediction framework with a multi-stream convolution-deconvolution architecture. Experimental results reveal our method to be effective on our new dataset as well as on a public social interaction dataset.</p>
 <ul>
 <li>Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: “Future Person Localization in First-Person Videos”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR, spotlight presentation), 2018 [<a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Yagi_Future_Person_Localization_CVPR_2018_paper.html" target="_blank" rel="noopener">Paper</a>] [<a href="https://github.com/takumayagi/fpl" target="_blank" rel="noopener">Code</a>]</li>
 </ul>
@@ -1108,7 +1125,7 @@
         'post': "Posts",
         'project': "Projects",
         'publication' : "Publications",
-        'talk' : "Talks",
+        'event' : "Events",
         'slides' : "Slides"
         };
     </script>
@@ -1162,11 +1179,10 @@
     
     
       
+      
     
     
-    
-    
-    <script src="/js/wowchemy.min.76130252bc8c287b25144aa7a54dcd1f.js"></script>
+    <script src="/js/wowchemy.min.572b7caf7fe601716a0f74d67d754c21.js"></script>
 
     
 
