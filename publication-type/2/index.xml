@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Webpage of Ryo Yonetani</title>
+    <link>https://yonetaniryo.github.io/publication-type/2/</link>
+      <atom:link href="https://yonetaniryo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yonetaniryo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://yonetaniryo.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Path Planning using Neural A* Search</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-2009-07476/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-2009-07476/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd Density Forecasting by Modeling Patch-based Dynamics</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-1911-09814/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-1911-09814/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-1905-09684/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-1905-09684/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalspami-yonetani-ks-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalspami-yonetani-ks-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Models of Human Visual Attention and Their Implementations: A Survey</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalsieicet-kimura-yh-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalsieicet-kimura-yh-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Spatiotemporal Gaps between Where We Look and What We Focus on</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalsipsjtcva-yonetani-km-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalsipsjtcva-yonetani-km-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Focus Analysis Using the Spatio-temporal Correlation between Visual Saliency and Eye Movements</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalsjip-yonetani-khm-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalsjip-yonetani-khm-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webpage of Ryo Yonetani</title>
+    <link>https://yonetaniryo.github.io/</link>
+      <atom:link href="https://yonetaniryo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Webpage of Ryo Yonetani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yonetaniryo.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Webpage of Ryo Yonetani</title>
+      <link>https://yonetaniryo.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Activity Forecasting</title>
+      <link>https://yonetaniryo.github.io/project/forecasting/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/project/forecasting/</guid>
+      <description>&lt;p&gt;Activity forecasting refers to the problems of predicting future behaviors of people observed in videos. We are particularly interested in trajectory forecasting that is aimed at predicting whhere pedestrians (or essentially moving agents such as bikes and cars) will move from their past trajectories. Trajectory forecasting techniques could be useful for controlling mobile robots or autonomous vehicles while safely avoiding collisions with surrounding people, and will ultimately play a crucial role in the near future where people and robots live and work together.&lt;/p&gt;
+&lt;h2 id=&#34;our-projects&#34;&gt;Our Projects&lt;/h2&gt;
+&lt;h3 id=&#34;crowd-density-forecasting-ra-l20&#34;&gt;Crowd Density Forecasting (RA-L&#39;20)&lt;/h3&gt;
+&lt;p&gt;Forecasting human activities observed in videos is a long-standing challenge in computer vision and robotics and is also beneficial for various real-world applications such as mobile robot navigation and drone landing. In this work, we present a new forecasting task called crowd density forecasting . Given a video of a crowd captured by a surveillance camera, our goal is to predict how the density of the crowd will change in unseen future frames. To address this task, we developed the patch-based density forecasting networks (PDFNs), which directly forecasts crowd density maps of future frames instead of trajectories of each moving person in the crowd. The PDFNs represent crowd density maps based on spatially or spatiotemporally overlapping patches and learn a simple density dynamics of fewer people in each patch. Doing so allows us to efficiently deal with diverse and complex crowd density dynamics observed when input videos involve a variable number of crowds moving independently. Experimental results with several public datasets of surveillance videos demonstrate the effectiveness of our approaches compared with state-of-the-art forecasting methods.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hiroaki Minoura, Ryo Yonetani, Mai Nishimura, and Yoshitaka Ushiku, &amp;ldquo;Crowd Density Forecasting by Modeling Patch-based Dynamics&amp;rdquo;, IEEE Robotics and Automation Letters, 2020 [&lt;a href=&#34;https://ieeexplore.ieee.org/document/9286551&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://medium.com/sinicx/crowd-density-forecasting-by-modeling-patch-based-dynamics-ieee-ra-l-4053a276c2f4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;future-person-localization-cvpr18&#34;&gt;Future Person Localization (CVPR&#39;18)&lt;/h3&gt;
+&lt;p&gt;We present a new task that predicts future locations of people observed in first-person videos. Consider a first-person video stream continuously recorded by a wearable camera. Given a short clip of a person that is extracted from the complete stream, we aim to predict his location in future frames. To facilitate this future person localization ability, we make the following three key observations: a) First-person videos typically involve significant ego-motion which greatly affects the location of the target person in future frames; b) Scale of the target person act as a salient cue to estimate a perspective effect in first-person videos; c) First-person videos often capture people up-close, making it easier to leverage target poses (e.g. where they look) for predicting their future locations. We incorporate these three observations into a prediction framework with a multi-stream convolution-deconvolution architecture. Experimental results reveal our method to be effective on our new dataset as well as on a public social interaction dataset.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: “Future Person Localization in First-Person Videos”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR, spotlight presentation), 2018 [&lt;a href=&#34;https://openaccess.thecvf.com/content_cvpr_2018/html/Yagi_Future_Person_Localization_CVPR_2018_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://github.com/takumayagi/fpl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Decentralized Learning</title>
+      <link>https://yonetaniryo.github.io/project/decentralized_learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/project/decentralized_learning/</guid>
+      <description>&lt;p&gt;A variety of modern AI products are powered by cutting-edge machine learning (ML) technologies, which range from face detection and language translation installed on smartphones to voice recognition and speech synthesis used in virtual assistants such as Amazon Alexa and Google Home. Therefore, the development of such AI products typically necessitates a large-scale data which are essential to train high-performance ML models like a deep neural network. One common approach to collecting large-scale data is crowdsourcing, namely, asking people in the world to provide own data. However, crowd-sourcing is not always useful when we are interested in collecting human activity data like first-person videos and other life-logging videos; such data often include private moments of people in their everyday life and could be used to compromise their privacy.&lt;/p&gt;
+&lt;p&gt;So how can we leverage a large amount of distributed (and private) data for machine learning? A decentralized learning is arguably one of the most promising solutions. Unlike a standard centralized training that stores all training data on a single server or multiple well-organized servers, decentralized learning frameworks ask people having data to download a trainable model, update it using own data, and upload the new model parameters to a server. The server then aggregates updates sent from the people to obtain a better trained model. By iterating this training cycle one can obtain a high-performance model that has been trained on a very-large and distributed data. One of the emerging frameworks to enable the decentralized learning is Federated Learning that allows one to train a deep neural network using tailored update techniques called Federated Averaging.&lt;/p&gt;
+&lt;p&gt;We are interested in how to make decentralized learning frameworks more practical. In particular, our works below focus on how model exchanges between the server and clients could be more efficient or secure for a variety of learning tasks.&lt;/p&gt;
+&lt;h2 id=&#34;our-projects&#34;&gt;Our Projects&lt;/h2&gt;
+&lt;h3 id=&#34;client-selection-for-federated-learning-icc19&#34;&gt;Client Selection for Federated Learning (ICC&#39;19)&lt;/h3&gt;
+&lt;p&gt;We envision a mobile edge computing (MEC) framework for machine learning (ML) technologies, which leverages distributed client data and computation resources for training high-performance ML models while preserving a client privacy. Toward this future goal, this work aims to extend Federated Learning (FL), which enables privacy-preserving training of models, to work with heterogeneous clients in a practical cellular network. The FL protocol iteratively asks random clients to download a trainable model from a server, update it with own data, and upload the updated model to the server, while asking the server to aggregate multiple client updates to further improve the model. While clients in this protocol are free from disclosing own private data, the overall training process can become inefficient when some clients are with limited computational resources (i.e., requiring longer update time) or under poor wireless channel conditions (longer upload time). Our new FL protocol, which we refer to as FedCS, mitigates this problem and performs FL efficiently while actively managing clients based on their resource conditions. Specifically, FedCS solves a client selection problem with resource constraints, which selects the maximum possible number of clients who can complete the FL’s download, update, and upload steps within a certain deadline. This selection strategy results in the server aggregating as many client updates as possible and accelerating performance improvement in ML models (e.g., classification accuracy.) We conducted an experimental evaluation using publicly-available large-scale image datasets to train deep neural networks on MEC environment simulations. The experimental results show that FedCS is able to complete its training process in a significantly shorter time compared to the original FL protocol.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;akayuki Nishio and Ryo Yonetani: “Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge”, IEEE International Conference on Communications (ICC), 2019 [&lt;a href=&#34;https://arxiv.org/abs/1804.08333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;transfer-rl-via-multi-source-policy-aggregation-ijcai20&#34;&gt;Transfer RL via Multi-source Policy Aggregation (IJCAI&#39;20)&lt;/h3&gt;
+&lt;p&gt;Transfer reinforcement learning (RL) aims at improving the learning efficiency of an agent by exploiting knowledge from other source agents trained on relevant tasks. However, it remains challenging to transfer knowledge between different environmental dynamics without having access to the source environments. In this work, we explore a new challenge in transfer RL, where only a set of source policies collected under diverse unknown dynamics is available for learning a target task efficiently. To address this problem, the proposed approach, MULTI-source POLicy AggRegation (MULTIPOLAR), comprises two key techniques. We learn to aggregate the actions provided by the source policies adaptively to maximize the target task performance. Meanwhile, we learn an auxiliary network that predicts residuals around the aggregated actions, which ensures the target policy&amp;rsquo;s expressiveness even when some of the source policies perform poorly. We demonstrated the effectiveness of MULTIPOLAR through an extensive experimental evaluation across six simulated environments ranging from classic control problems to challenging robotics simulations, under both continuous and discrete action spaces.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mohammadamin Barekatain, Ryo Yonetani, and Masashi Hamaya, “MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics”, International Joint Conference on Artificial Intelligence (IJCAI), 2020 [&lt;a href=&#34;https://www.ijcai.org/Proceedings/2020/430&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://github.com/Mohammadamin-Barekatain/multipolar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;] [&lt;a href=&#34;https://medium.com/sinicx/multipolar-multi-source-policy-aggregation-for-transfer-reinforcement-learning-between-diverse-bc42a152b0f5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;adaptive-distillation-for-federated-learning-icpr20&#34;&gt;Adaptive Distillation for Federated Learning (ICPR&#39;20)&lt;/h3&gt;
+&lt;p&gt;This paper addresses the problem of decentralized learning to achieve a high-performance global model by asking a group of clients to share local models pre-trained with their own data resources. We are particularly interested in a specific case where both the client model architectures and data distributions are diverse, which makes it nontrivial to adopt conventional approaches such as Federated Learning and network co-distillation. To this end, we propose a new decentralized learning method called Decentralized Learning via Adaptive Distillation (DLAD). Given a collection of client models and a large number of unlabeled distillation samples, the proposed DLAD 1) aggregates the outputs of the client models while adaptively emphasizing those with higher confidence in given distillation samples and 2) trains the global model to imitate the aggregated outputs. Our extensive experimental evaluation on multiple public datasets (MNIST, CIFAR-10, and CINIC-10) demonstrates the effectiveness of the proposed method.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jiaxin Ma, Ryo Yonetani, and Zahid Iqbal, “Adaptive Distillation for Decentralized Learning from Heterogeneous Clients”, International Conference on Pattern Recognition (ICPR), 2020 [&lt;a href=&#34;https://arxiv.org/abs/2008.07948&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;&#34;&gt;Blog&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;privacy-preserving-visual-learning-iccv17&#34;&gt;Privacy-Preserving Visual Learning (ICCV&#39;17)&lt;/h3&gt;
+&lt;p&gt;We propose a privacy-preserving framework for learning visual classifiers by leveraging distributed private image data. This framework is designed to aggregate multiple classifiers updated locally using private data and to ensure that no private information about the data is exposed during its learning procedure. We utilize a homomorphic cryptosystem that can aggregate the local classifiers while they are encrypted and thus kept secret. To overcome the high computational cost of homomorphic encryption of high-dimensional classifiers, we (1) impose sparsity constraints on local classifier updates and (2) propose a novel efficient encryption scheme named doubly-permuted homomorphic encryption (DPHE) which is tailored to sparse high-dimensional data. DPHE (i) decomposes sparse data into its constituent non-zero values and their corresponding support indices, (ii) applies homomorphic encryption only to the non-zero values, and (iii) employs double permutations on the support indices to make them secret. Our experimental evaluation on several public datasets demonstrates that the proposed approach significantly outperforms other privacy-preserving methods and achieves comparable performance against state-of-the-art visual recognition methods without privacy preservation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryo Yonetani, Vishnu Naresh Boddeti, Kris M. Kitani, Yoichi Sato: “Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption”, International Conference on Computer Vision (ICCV), 2017 [&lt;a href=&#34;https://openaccess.thecvf.com/content_iccv_2017/html/Yonetani_Privacy-Preserving_Visual_Learning_ICCV_2017_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Person Vision</title>
+      <link>https://yonetaniryo.github.io/project/first_person_vision/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/project/first_person_vision/</guid>
+      <description>&lt;p&gt;First-person vision is an emerging topic in the area of computer vision which makes use of wearable cameras for solving various vision problems. We envision a future where people have such wearable cameras as daily necessities, like a smartphone that most of us own today, and have been developing techniques and applications that can be enabled by collectively using multiple wearable cameras.&lt;/p&gt;
+&lt;h2 id=&#34;why-first-person-vision&#34;&gt;Why First-Person Vision?&lt;/h2&gt;
+&lt;p&gt;Wearable cameras mounted on the head of people can record their visual experience, such as what they see and interact, in the form of first-person points-of-view video. From human sensing perspective, first-person videos involve several appealing properties that cannot be achieved just by using conventional surveillance cameras.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sensing attention&lt;/strong&gt;: Since wearable cameras are supposed to be mounted on the head of people, first-person videos often contain what the recorders paid attention. Recent advancement of camera technologies further offers wearable eye-trackers that gives us access to specific objects or points that the recorders look at.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sensing head motion&lt;/strong&gt;: Another interesting property enabled by mounting a camera on the head is that, camera motion is induced by head motion of the recorders. This property makes it easier to analyze various head gestures (such as nodding) observed during daily interactions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sensing hands&lt;/strong&gt;: When recorders are involved in a certain individual task (like cooking, eating, and using laptops), first-person videos often capture how they use their hands.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sensing people&lt;/strong&gt;: When recorders are conversing with others, the conversation partners, not only their visual appearances but also their motion induced by gestures, are observed clearly in first-person videos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;our-projects&#34;&gt;Our Projects&lt;/h2&gt;
+&lt;h3 id=&#34;future-person-localization-cvpr18&#34;&gt;Future Person Localization (CVPR&#39;18)&lt;/h3&gt;
+&lt;p&gt;We present a new task that predicts future locations of people observed in first-person videos. Consider a first-person video stream continuously recorded by a wearable camera. Given a short clip of a person that is extracted from the complete stream, we aim to predict his location in future frames. To facilitate this future person localization ability, we make the following three key observations: a) First-person videos typically involve significant ego-motion which greatly affects the location of the target person in future frames; b) Scale of the target person act as a salient cue to estimate a perspective effect in first-person videos; c) First-person videos often capture people up-close, making it easier to leverage target poses (e.g. where they look) for predicting their future locations. We incorporate these three observations into a prediction framework with a multi-stream convolution-deconvolution architecture. Experimental results reveal our method to be effective on our new dataset as well as on a public social interaction dataset.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato: “Future Person Localization in First-Person Videos”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR, spotlight presentation), 2018 [&lt;a href=&#34;https://openaccess.thecvf.com/content_cvpr_2018/html/Yagi_Future_Person_Localization_CVPR_2018_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://github.com/takumayagi/fpl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;person-identification-cvpr15-tpami18&#34;&gt;Person Identification (CVPR&#39;15, TPAMI&#39;18)&lt;/h3&gt;
+&lt;p&gt;We developed a self-search technique tailored to first-person videos. The key observation of our work is that the egocentric head motion of a target person (ie, the self) is observed both in the POV video of the target and observer. The motion correlation between the target person’s video and the observer’s video can then be used to identify instances of the self uniquely. We incorporate this feature into the proposed approach that computes the motion correlation over densely-sampled trajectories to search for a target in observer videos. Our approach significantly improves self-search performance over several well-known face detectors and recognizers. Furthermore, we show how our approach can enable several practical applications such as privacy filtering, target video retrieval, and social group clustering.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryo Yonetani, Kris Kitani, Yoichi Sato: “Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures”, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol.40, Issue 11, pp.2749-2761, 2018 [&lt;a href=&#34;https://arxiv.org/abs/1606.04637&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://www.dropbox.com/s/onx530l5doqbrsb/yks_cvpr2015.zip?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dataset&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;Ryo Yonetani, Kris Kitani, Yoichi Sato: “Ego-Surfing First-Person Videos”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 [&lt;a href=&#34;https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Yonetani_Ego-Surfing_First-Person_Videos_2015_CVPR_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;action-recognition-cvpr16&#34;&gt;Action Recognition (CVPR&#39;16)&lt;/h3&gt;
+&lt;p&gt;We aim to understand the dynamics of social interactions between two people by recognizing their actions and reactions using a head-mounted camera. To recognize micro-level actions and reactions, such as slight shifts in attention, subtle nodding, or small hand actions, where only subtle body motion is apparent, we propose to use paired egocentric videos recorded by two interacting people. We show that the first-person and second-person points-of-view features of two people, enabled by paired egocentric videos, are complementary and essential for reliably recognizing micro-actions and reactions. We also build a new dataset of dyadic (two-persons) interactions that comprises more than 1000 pairs of egocentric videos to enable systematic evaluations on the task of micro-action and reaction recognition.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryo Yonetani, Kris Kitani, Yoichi Sato: “Recognizing Micro-Actions and Reactions from Paired Egocentric Videos”, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 [&lt;a href=&#34;https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yonetani_Recognizing_Micro-Actions_and_CVPR_2016_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://www.dropbox.com/s/ihy5qdoliktfozx/yks_cvpr2016_release.zip?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dataset&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;landmark-discovery-eccv16&#34;&gt;Landmark Discovery (ECCV&#39;16)&lt;/h3&gt;
+&lt;p&gt;Visual motifs are images of visual experiences that are significant and shared across many people, such as an image of an informative sign viewed by many people and that of a familiar social situation such as when interacting with a clerk at a store. The goal of this study is to discover visual motifs from a collection of first-person videos recorded by a wearable camera. To achieve this goal, we develop a commonality clustering method that leverages three important aspects: inter-video similarity, intra-video sparseness, and people’s visual attention. The problem is posed as normalized spectral clustering, and is solved efficiently using a weighted covariance matrix. Experimental results suggest the effectiveness of our method over several state-of-the-art methods in terms of both accuracy and efficiency of visual motif discovery.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ryo Yonetani, Kris Kitani, Yoichi Sato: “Visual Motif Discovery via First-Person Vision”, European Conference on Computer Vision (ECCV), 2016 [&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-46475-6_12&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;] [&lt;a href=&#34;https://www.dropbox.com/s/jt8d0ru2l2atvm0/yks_eccv2016_release.zip?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dataset&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;joint-attention-detection-cvprw16-iccvw17&#34;&gt;Joint Attention Detection (CVPRW&#39;16, ICCVW&#39;17)&lt;/h3&gt;
+&lt;p&gt;The goal of this work is to discover objects of joint attention, i.e., objects being viewed by multiple people using head-mounted cameras and eye trackers. Such objects of joint attention are expected to act as an important cue for understanding social interactions in everyday scenes. To this end, we develop a commonality-clustering method tailored to first-person videos combined with points-of-gaze sources. The proposed method uses multiscale spatiotemporal tubes around points of gaze as a candidate of objects, making it possible to deal with various sizes of objects observed in the first-person videos. We also introduce a new dataset of multiple pairs of first-person videos and points-of-gaze data. Our experimental results show that our approach can outperform several state-of-the-art commonality-clustering methods.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Yifei Huang, Minjie Cai, Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: “Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Video”, International Workshop on Egocentric Perception, Interaction, and Computing (EPIC), 2017 [&lt;a href=&#34;http://openaccess.thecvf.com/content_ICCV_2017_workshops/w34/html/attention_hyfiis.u-tokyo.ac.jp_cai-mjiis.u-tokyo.ac.jp_keraiis.u-tokyo.ac.jp_ICCV_2017_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;Hiroshi Kera, Ryo Yonetani, Keita Higuchi, Yoichi Sato: “Discovering Objects of Joint Attention via First-Person Sensing”, IEEE CVPR Workshop on Egocentric (First-Person) Vision (EGOV), 2016 [&lt;a href=&#34;https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w13/html/Kera_Discovering_Objects_of_CVPR_2016_paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Distillation for Decentralized Learning from Heterogeneous Clients</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-2008-07948/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-2008-07948/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid-FL for Wireless Networks: Cooperative Learning Mechanism Using Non-IID Data</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-conficc-yoshida-nmyy-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-conficc-yoshida-nmyy-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L2B: Learning to Balance the Safety-Efficiency Trade-off in Interactive Crowd-aware Robot Navigation</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-2003-09207/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-2003-09207/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MGpi: A Computational Model of Multiagent Group Perception and Interaction</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confatal-sanghvi-yk-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confatal-sanghvi-yk-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confijcai-barekatain-yh-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confijcai-barekatain-yh-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path Planning using Neural A* Search</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-2009-07476/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-2009-07476/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support Strategies for Remote Guides in Assisting People with Visual Impairments for Effective Indoor Navigation</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confchi-kamikubo-khys-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confchi-kamikubo-khys-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assisting group activity analysis through hand detection and identification in multiple egocentric videos</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confiui-charoenkulvanich-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confiui-charoenkulvanich-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-conficc-nishio-y-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-conficc-nishio-y-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd Density Forecasting by Modeling Patch-based Dynamics</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-1911-09814/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-1911-09814/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-1905-09684/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalscorrabs-1905-09684/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Browsing Group First-Person Videos with 3D Visualization</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-conftabletop-sugita-hyks-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-conftabletop-sugita-hyks-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Object Scanning: Object-Based Elastic Timeline for Quickly Browsing First-Person Videos</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confchi-kayukawa-hynsm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confchi-kayukawa-hynsm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ego-Surfing: Person Localization in First-Person Videos Using Ego-Motion Signatures</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalspami-yonetani-ks-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalspami-yonetani-ks-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Role of Tunnel Vision Simulation in the Design Cycle of Accessible Interfaces</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confw-4-a-kamikubo-hyks-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confw-4-a-kamikubo-hyks-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future Person Localization in First-Person Videos</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confcvpr-yagi-mys-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confcvpr-yagi-mys-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EgoScanning: Quickly Scanning First-Person Videos with Egocentric Elastic Timelines</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confchi-higuchi-ys-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confchi-higuchi-ys-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egoscanning: quickly scanning first-person videos with egocentric elastic timelines</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confsiggrapha-higuchi-ys-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confsiggrapha-higuchi-ys-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-Preserving Visual Learning Using Doubly Permuted Homomorphic Encryption</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-conficcv-yonetani-bks-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-conficcv-yonetani-bks-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid Prototyping of Accessible Interfaces With Gaze-Contingent Tunnel Vision Simulation</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confassets-kamikubo-hyks-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confassets-kamikubo-hyks-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Localization and Spatial Segmentation of Joint Attention in Multiple First-Person Videos</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-conficcvw-huang-ckyhs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-conficcvw-huang-ckyhs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Eye Help You?: Effects of Visualizing Eye Fixations on Remote Collaboration Scenarios for Physical Tasks</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confchi-higuch-ys-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confchi-higuch-ys-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Objects of Joint Attention via First-Person Sensing</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confcvpr-kera-yhs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confcvpr-kera-yhs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognizing Micro-Actions and Reactions from Paired Egocentric Videos</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confcvpr-yonetani-ks-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confcvpr-yonetani-ks-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Motif Discovery via First-Person Vision</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confeccv-yonetani-ks-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confeccv-yonetani-ks-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ego-surfing first person videos</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confcvpr-yonetani-ks-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confcvpr-yonetani-ks-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Models of Human Visual Attention and Their Implementations: A Survey</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalsieicet-kimura-yh-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalsieicet-kimura-yh-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning aspects of interest from Gaze</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-conficmi-shimonishi-kyim-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-conficmi-shimonishi-kyim-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Spatiotemporal Gaps between Where We Look and What We Focus on</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalsipsjtcva-yonetani-km-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalsipsjtcva-yonetani-km-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting where we look from spatiotemporal gaps</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-conficmi-yonetani-km-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-conficmi-yonetani-km-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Focus Analysis Using the Spatio-temporal Correlation between Visual Saliency and Eye Movements</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-journalsjip-yonetani-khm-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-journalsjip-yonetani-khm-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling video viewing behaviors for viewer state estimation</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confmm-yonetani-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confmm-yonetani-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-mode saliency dynamics model for analyzing gaze and attention</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confetra-yonetani-km-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confetra-yonetani-km-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Image Segmentation with Estimated Depth</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-confbmvc-yonetani-ksf-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-confbmvc-yonetani-ksf-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze Probing: Event-Based Estimation of Objects Being Focused On</title>
+      <link>https://yonetaniryo.github.io/publication/dblp-conficpr-yonetani-khm-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://yonetaniryo.github.io/publication/dblp-conficpr-yonetani-khm-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

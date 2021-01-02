@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://yonetaniryo.github.io/sitemap.xml
