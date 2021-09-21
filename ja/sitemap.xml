@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc></loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href=""
-                />
-  </url>
-  
   <url>
     <loc>https://yonetaniryo.github.io/ja/categories/</loc>
     <xhtml:link
@@ -28,13 +13,9 @@
                 hreflang="ja"
                 href="https://yonetaniryo.github.io/ja/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/ja/profile_j/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/ja/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -46,9 +27,7 @@
                 hreflang="ja"
                 href="https://yonetaniryo.github.io/ja/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,9 +39,7 @@
                 hreflang="ja"
                 href="https://yonetaniryo.github.io/ja/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/ja/</loc>
     <xhtml:link
                 rel="alternate"
@@ -75,19 +52,4 @@
                 href="https://yonetaniryo.github.io/ja/"
                 />
   </url>
-  
-  <url>
-    <loc></loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href=""
-                />
-  </url>
-  
 </urlset>

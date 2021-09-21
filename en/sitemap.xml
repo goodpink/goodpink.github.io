@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://yonetaniryo.github.io/project/forecasting/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/project/decentralized_learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/project/first_person_vision/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/project/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -35,23 +26,7 @@
                 hreflang="en"
                 href="https://yonetaniryo.github.io/"
                 />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href=""
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -63,9 +38,7 @@
                 hreflang="en"
                 href="https://yonetaniryo.github.io/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,23 +50,7 @@
                 hreflang="en"
                 href="https://yonetaniryo.github.io/publication_types/"
                 />
-  </url>
-  
-  <url>
-    <loc></loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href=""
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href=""
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yonetaniryo.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -106,5 +63,4 @@
                 href="https://yonetaniryo.github.io/tags/"
                 />
   </url>
-  
 </urlset>
