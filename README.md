@@ -1,1 +1,1 @@
-# Ryo Yonetani, Ph.D.
+# goodpink, Ph.D.
